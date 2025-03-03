@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>柒柒の小碎步 Blog</title>
-        <link>https://sayurinana.github.io/study-blog_public/blog</link>
-        <description>柒柒の小碎步 Blog</description>
+        <title>柒柒の小碎步（还未完成旧数据同步） Blog</title>
+        <link>https://study.sayurinana.ink/blog</link>
+        <description>柒柒の小碎步（还未完成旧数据同步） Blog</description>
         <lastBuildDate>Tue, 04 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[测试文章]]></title>
-            <link>https://sayurinana.github.io/study-blog_public/blog/post-1</link>
-            <guid>https://sayurinana.github.io/study-blog_public/blog/post-1</guid>
+            <link>https://study.sayurinana.ink/blog/post-1</link>
+            <guid>https://study.sayurinana.ink/blog/post-1</guid>
             <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
             <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>

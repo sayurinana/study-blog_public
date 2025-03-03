@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstudy_blog=self.webpackChunkstudy_blog||[]).push([[831],{9289:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/study-blog_public/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

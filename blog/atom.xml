@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sayurinana.github.io/study-blog_public/blog</id>
-    <title>柒柒の小碎步 Blog</title>
+    <id>https://study.sayurinana.ink/blog</id>
+    <title>柒柒の小碎步（还未完成旧数据同步） Blog</title>
     <updated>2025-03-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://sayurinana.github.io/study-blog_public/blog"/>
-    <subtitle>柒柒の小碎步 Blog</subtitle>
-    <icon>https://sayurinana.github.io/study-blog_public/https://s2.loli.net/2022/03/22/tYA8x4USsG2h3Cf.jpg</icon>
+    <link rel="alternate" href="https://study.sayurinana.ink/blog"/>
+    <subtitle>柒柒の小碎步（还未完成旧数据同步） Blog</subtitle>
+    <icon>https://study.sayurinana.ink/https://s2.loli.net/2022/03/22/tYA8x4USsG2h3Cf.jpg</icon>
     <entry>
         <title type="html"><![CDATA[测试文章]]></title>
-        <id>https://sayurinana.github.io/study-blog_public/blog/post-1</id>
-        <link href="https://sayurinana.github.io/study-blog_public/blog/post-1"/>
+        <id>https://study.sayurinana.ink/blog/post-1</id>
+        <link href="https://study.sayurinana.ink/blog/post-1"/>
         <updated>2025-03-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
