@@ -4,23 +4,1173 @@
         <title>柒柒の小碎步（还未完成旧数据同步） Blog</title>
         <link>https://study.sayurinana.ink/blog</link>
         <description>柒柒の小碎步（还未完成旧数据同步） Blog</description>
-        <lastBuildDate>Tue, 04 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 18:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <item>
-            <title><![CDATA[测试文章]]></title>
-            <link>https://study.sayurinana.ink/blog/post-1</link>
-            <guid>https://study.sayurinana.ink/blog/post-1</guid>
-            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-            <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>提示</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p></div></div>
-<!-- -->
-<p>For example, use JSX to create an interactive button:</p>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<button>Click me!</button>]]></content:encoded>
-            <category>测试</category>
+            <title><![CDATA[Windows下配置 flutter + Win + Android 开发环境]]></title>
+            <link>https://study.sayurinana.ink/blog/2025-03-02-Windows下配置-flutter-Win-Android-开发环境</link>
+            <guid>https://study.sayurinana.ink/blog/2025-03-02-Windows下配置-flutter-Win-Android-开发环境</guid>
+            <pubDate>Sun, 02 Mar 2025 18:04:01 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 11 22H2</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>官网链接：</p>
+<ul>
+<li>
+<p><a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">Flutter - Build apps for any screen</a></p>
+</li>
+<li>
+<p><a href="https://flutter.cn/" target="_blank" rel="noopener noreferrer">Flutter: 为所有屏幕创造精彩 - Flutter 中文开发者网站 - Flutter</a></p>
+</li>
+<li>
+<p><a href="https://docs.flutter.cn/release/archive" target="_blank" rel="noopener noreferrer">归档列表 | Flutter 中文文档 - Flutter 中文开发者网站 - Flutter</a></p>
+</li>
+<li>
+<p><a href="https://docs.flutter.cn/community/china/" target="_blank" rel="noopener noreferrer">在中国网络环境下使用 Flutter | Flutter 中文文档 - Flutter 中文开发者网站 - Flutter</a></p>
+</li>
+</ul>
+<p>或见<a href="https://study.sayurinana.ink/blog/2025-03-02-Windows%E4%B8%8B%E9%85%8D%E7%BD%AE-flutter-Win-Android-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>中分享的<strong>指定资源名</strong>，若使用分享的安装包则可以直接跳转至<a href="https://study.sayurinana.ink/blog/2025-03-02-Windows%E4%B8%8B%E9%85%8D%E7%BD%AE-flutter-Win-Android-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83#%E5%AE%89%E8%A3%85%E9%83%A8%E5%88%86">安装部分</a></p>
+</blockquote>
+<p>官网的<a href="https://docs.flutter.dev/get-started/install" target="_blank" rel="noopener noreferrer">Get Started</a>写的挺好的，<a href="https://docs.flutter.cn/get-started/install" target="_blank" rel="noopener noreferrer">中文网站的</a>也挺好，我这就不赘述了，</p>
+<p>写这个主要是给自己单篇内快速回忆和整点偷懒脚本加速新机器配置用的，</p>
+<p>总的来说咱这主要追求一个 <strong>快</strong></p>
+<blockquote>
+<p>本篇配置目标是搭配代理进行开发，不会涉及配置镜像，如果要配置镜像详见<a href="https://docs.flutter.cn/community/china/" target="_blank" rel="noopener noreferrer">在中国网络环境下使用 Flutter | Flutter 中文文档 - Flutter 中文开发者网站 - Flutter</a></p>
+</blockquote>
+<h1>安装Flutter</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="下载sdk压缩包">下载SDK压缩包<a href="https://study.sayurinana.ink/blog/2025-03-02-Windows%E4%B8%8B%E9%85%8D%E7%BD%AE-flutter-Win-Android-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83#%E4%B8%8B%E8%BD%BDsdk%E5%8E%8B%E7%BC%A9%E5%8C%85" class="hash-link" aria-label="下载SDK压缩包的直接链接" title="下载SDK压缩包的直接链接">​</a></h2>
+<p>现在的最新版是3.29.0，但是现在还没稳定，不建议用，这里是<a href="https://storage.flutter-io.cn/flutter_infra_release/releases/stable/windows/flutter_windows_3.27.4-stable.zip" target="_blank" rel="noopener noreferrer">3.27.4的快捷链接</a>，</p>
+<p>在这里查适合国内环境的资源：</p>
+<ul>
+<li><a href="https://docs.flutter.cn/release/archive" target="_blank" rel="noopener noreferrer">归档列表 | Flutter 中文文档 - Flutter 中文开发者网站 - Flutter</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="解压缩略">解压缩（略）<a href="https://study.sayurinana.ink/blog/2025-03-02-Windows%E4%B8%8B%E9%85%8D%E7%BD%AE-flutter-Win-Android-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83#%E8%A7%A3%E5%8E%8B%E7%BC%A9%E7%95%A5" class="hash-link" aria-label="解压缩（略）的直接链接" title="解压缩（略）的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="配置环境变量">配置环境变量<a href="https://study.sayurinana.ink/blog/2025-03-02-Windows%E4%B8%8B%E9%85%8D%E7%BD%AE-flutter-Win-Android-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83#%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F" class="hash-link" aria-label="配置环境变量的直接链接" title="配置环境变量的直接链接">​</a></h2>
+<p>用户环境变量batch脚本：</p>
+<pre tabindex="0" class="codeBlockStandalone_MEMb thin-scrollbar language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"></code></pre>
+<p>系统环境变量batch脚本（需要管理员权限运行）：</p>
+<pre tabindex="0" class="codeBlockStandalone_MEMb thin-scrollbar language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"></code></pre>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中<code>v_2.0</code>的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<hr>
+<ul>
+<li>name<!-- -->
+<ul>
+<li>path</li>
+</ul>
+</li>
+</ul>
+<hr>]]></content:encoded>
+            <category>notag</category>
+        </item>
+        <item>
+            <title><![CDATA[记录一次打包和安装Files-Dev]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-12-23-记录一次打包和安装Files-Dev</link>
+            <guid>https://study.sayurinana.ink/blog/2024-12-23-记录一次打包和安装Files-Dev</guid>
+            <pubDate>Mon, 23 Dec 2024 14:15:55 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Win11</li>
+<li>SDK：.NET 8.0.303</li>
+<li>ennnnn其实用不着其他的，因为这个主要是安装，拿打包成品装就好了，</li>
+<li>安装需求windows系统版本10.0.19041.0以上，到10.0.22621.525</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>官网链接：<a href="https://github.com/files-community/Files" target="_blank" rel="noopener noreferrer">files-community/Files: A modern file manager that helps users organize their files and folders.</a></p>
+<p>或见<a href="https://study.sayurinana.ink/blog/2024-12-23-%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%89%93%E5%8C%85%E5%92%8C%E5%AE%89%E8%A3%85Files-Dev#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>中分享的<strong>Files.Package</strong>，若使用分享的安装包则可以直接跳转至<a href="https://study.sayurinana.ink/blog/2024-12-23-%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%89%93%E5%8C%85%E5%92%8C%E5%AE%89%E8%A3%85Files-Dev#%E5%AE%89%E8%A3%85%E9%83%A8%E5%88%86">安装部分</a></p>
+</blockquote>
+<p>老实说，Windows自带的那个资源管理器很多时候用起来是真有点难绷，虽然其实算得上是细枝末节的地方，</p>
+<p>比如说：</p>
+<ul>
+<li>不想在此电脑的设备和驱动器这一块看到这些迅雷、百度、之类的图标，有些人可能用得到吧，但是我是根本用不到这个地方的图标的，百度和有些其他的（我忘了）还好，能在软件设置里关掉，有些就是关都关不掉（不要讲什么改注册表还有其他的什么“奇门兵法”，试过，电脑崩溃过，不喜欢再整那些活儿了），</li>
+<li>为了使用方便我固定了一些文件夹到快速访问，可是每一次打开我都还要在左侧滚好一会儿鼠标滚轮才能看到我的“快速访问”，真的是难绷，，当然，我可以在选项里设置打开时打开主文件夹而不是此电脑，可是。。。我就是想一按Win+E就能看到此电脑界面，一是因为这个比主文件夹那一大坨好看，二是因为我希望我打开资源管理器的第一时间看到的是电脑的所有硬盘，而不是最近的文件，</li>
+<li>简单地说就是我希望我能在打开时看到设备和驱动器的同时还能够看到快速访问栏</li>
+</ul>
+<img src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223142901271.png" alt="image-20241223142901271" style="zoom:33%">
+<img src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223143148000.png" alt="image-20241223143148000" style="zoom:33%">
+<p>于是在搜索后我得知了Files这个项目，它吸引我的点主要是：</p>
+<ul>
+<li>界面外观还挺不错的，我不喜欢啥花里胡哨的，原生那样圆点白点就很好了，</li>
+<li>俺寻思这东西应该是不会把迅雷云盘啥的玩意儿搞进来的，先不说它是外国作者开发的，就应该不太知道或者了解这东西，其次要是真的了解这东西，想必也是讨厌它（出现在这种地方）的，，，呐，对吧？</li>
+<li>还有就是git集成，嘿嘿有意思，</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="实际安装使用后的体验">实际安装使用后的体验<a href="https://study.sayurinana.ink/blog/2024-12-23-%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%89%93%E5%8C%85%E5%92%8C%E5%AE%89%E8%A3%85Files-Dev#%E5%AE%9E%E9%99%85%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%90%8E%E7%9A%84%E4%BD%93%E9%AA%8C" class="hash-link" aria-label="实际安装使用后的体验的直接链接" title="实际安装使用后的体验的直接链接">​</a></h2>
+<p>虽然只用了一天，不过还是有些感受可以说说，</p>
+<ul>
+<li>性能不如系统自带资源管理器，略有卡顿，但是我觉得这个卡顿程度无伤大雅，可以接受的，总的来说满足我的需求，</li>
+<li>其实只有少数可以理解的时候有一点卡顿，其他大多数时候都是很丝滑的，很棒了</li>
+<li>界面我放了张图放在下面，我专门选的照片，因为我平时还喜欢摄影，还有就是普通文件和原本的在详细信息部分没啥区别就不放了，但是现在这个界面效果，只能说很难不满意，干净的界面，核心的信息，再配合QuickLook软件，纯是斯巴拉西~</li>
+<li>进软件主界面的图也在下面，嗯，不说啥了，够了</li>
+<li>哦对了还有右键菜单，，，真的很难不满意，，</li>
+<li>呃，最后，有个难绷的，跟使用体验无关，是在使用之前，厚礼蟹，这位作者把这个项目开源了，官网也放了除了指向Microsoft Store的链接之外的安装包，，但是哥们，arm架构的安装包，给win？are you sure？哥们儿你再看看呢？ennnn，很好，然后我再去看商店，。。64块大洋？，，，好叭其实我没啥好说的，作者您辛苦了，只能是跟着文档去编译安装了，想不花钱的话</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223144712343.png" alt="image-20241223144712343" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223145054424.png" alt="image-20241223145054424" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223145204741.png" alt="image-20241223145204741" class="img_ev3q"></p>
+<h1>关于环境</h1>
+<p>如果是要编译的话，是下图的环境，我这边机器上已经配置好了，</p>
+<p>不过如果不要编译只是用我打包好的来安装的话主要是看windows系统版本，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223142337513.png" alt="image-20241223142337513" class="img_ev3q"></p>
+<p>就是下图的操作系统版本，要满足至少在10.0.19041.0以上才能安装，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223142528519.png" alt="image-20241223142528519" class="img_ev3q"></p>
+<h1>获取安装包</h1>
+<p>在上面<a href="https://study.sayurinana.ink/blog/2024-12-23-%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%89%93%E5%8C%85%E5%92%8C%E5%AE%89%E8%A3%85Files-Dev#%E5%AE%9E%E9%99%85%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%90%8E%E7%9A%84%E4%BD%93%E9%AA%8C">实际安装使用后的体验</a></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223145643449.png" alt="image-20241223145643449" class="img_ev3q"></p>
+<p>有个蛋的安装包，没有，编译去，厚礼蟹，</p>
+<p>（可以自己去原作者github项目看看：<a href="https://github.com/files-community/Files" target="_blank" rel="noopener noreferrer">files-community/Files: A modern file manager that helps users organize their files and folders.</a>）</p>
+<h1>安装部分</h1>
+<p>我从原作者项目clone了源代码下来跑通了，然后做了个包，自签名的，分享在底下<a href="https://study.sayurinana.ink/blog/2024-12-23-%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%89%93%E5%8C%85%E5%92%8C%E5%AE%89%E8%A3%85Files-Dev#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>了</p>
+<p>呃，别问为什么是debug包不是release，因为编译通过不了，要release可以自己倒腾倒腾，</p>
+<p>先把包下载下来，然后步骤如下：</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="解压缩">解压缩<a href="https://study.sayurinana.ink/blog/2024-12-23-%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%89%93%E5%8C%85%E5%92%8C%E5%AE%89%E8%A3%85Files-Dev#%E8%A7%A3%E5%8E%8B%E7%BC%A9" class="hash-link" aria-label="解压缩的直接链接" title="解压缩的直接链接">​</a></h2>
+<p>先把包完整解压缩了再做其他的，这一步有问题的属于赛博文盲不归我管（我感觉对这个有兴趣的应该没有赛博文盲了）</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223152218677.png" alt="image-20241223152218677" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="允许任意签名bushi">允许任意签名（bushi<a href="https://study.sayurinana.ink/blog/2024-12-23-%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%89%93%E5%8C%85%E5%92%8C%E5%AE%89%E8%A3%85Files-Dev#%E5%85%81%E8%AE%B8%E4%BB%BB%E6%84%8F%E7%AD%BE%E5%90%8Dbushi" class="hash-link" aria-label="允许任意签名（bushi的直接链接" title="允许任意签名（bushi的直接链接">​</a></h2>
+<p>打开包里<code>my-install.txt</code>复制最前面一行或者直接从这里复制，</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Set-ExecutionPolicy Unrestricted</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>然后直接Win+R输入powershell，按Ctrl+Shift+Enter，选择是，以管理员权限运行，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223152427526.png" alt="image-20241223152427526" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223152611693.png" alt="image-20241223152611693" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="powershell进入包目录执行安装脚本">powershell进入包目录执行安装脚本<a href="https://study.sayurinana.ink/blog/2024-12-23-%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%89%93%E5%8C%85%E5%92%8C%E5%AE%89%E8%A3%85Files-Dev#powershell%E8%BF%9B%E5%85%A5%E5%8C%85%E7%9B%AE%E5%BD%95%E6%89%A7%E8%A1%8C%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC" class="hash-link" aria-label="powershell进入包目录执行安装脚本的直接链接" title="powershell进入包目录执行安装脚本的直接链接">​</a></h2>
+<p>在上面地址栏复制，然后老方法打开powershell，执行<code>cd &lt;替换成你复制的路径&gt;</code>，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223152718292.png" alt="image-20241223152718292" class="img_ev3q"></p>
+<p>进入之后输入 <code>.\Install.ps1</code>，回车执行</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223152914255.png" alt="image-20241223152914255" class="img_ev3q"></p>
+<p>它会自动跳出设置界面，把开发人员模式打开，然后关掉，等，就OK</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223153202132.png" alt="image-20241223153202132" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="安装成功">安装成功<a href="https://study.sayurinana.ink/blog/2024-12-23-%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%89%93%E5%8C%85%E5%92%8C%E5%AE%89%E8%A3%85Files-Dev#%E5%AE%89%E8%A3%85%E6%88%90%E5%8A%9F" class="hash-link" aria-label="安装成功的直接链接" title="安装成功的直接链接">​</a></h2>
+<p>然后就能在开始菜单看到了，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223153307326.png" alt="image-20241223153307326" class="img_ev3q"></p>
+<p>如果不想每次关掉之后打开这个都要等待它加载可以在设置里把这东西打开，</p>
+<p>其他的开关自己玩去，886~</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/12/23/image-20241223153515804.png" alt="image-20241223153515804" class="img_ev3q"></p>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中<code>v_2.0</code>的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<hr>
+<ul>
+<li>Files.Package<!-- -->
+<ul>
+<li>2024-12-23_记一次打包和安装Files-Dev/Files.Package_3.8.10.0_Debug_Test.zip</li>
+</ul>
+</li>
+</ul>
+<hr>]]></content:encoded>
+            <category>操作记录</category>
+        </item>
+        <item>
+            <title><![CDATA[前进的脚步]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-12-11-前进的脚步</link>
+            <guid>https://study.sayurinana.ink/blog/2024-12-11-前进的脚步</guid>
+            <pubDate>Wed, 11 Dec 2024 03:55:48 GMT</pubDate>
+            <description><![CDATA[快速回想起前面学了些啥，解决到了哪]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>快速回想起前面学了些啥，解决到了哪</p>
+</blockquote>
+<p>以一个关键特征、关键词为主线索，条列出在学的点</p>
+<ul>
+<li>Rust<!-- -->
+<ul>
+<li>serde<!-- -->
+<ul>
+<li><a href="https://serde.rs/#data-formats" target="_blank" rel="noopener noreferrer">Overview · Serde</a></li>
+</ul>
+</li>
+<li>axum<!-- -->
+<ul>
+<li><a href="https://github.com/tokio-rs/axum" target="_blank" rel="noopener noreferrer">GitHub - tokio-rs/axum: Ergonomic and modular web framework built with Tokio, Tower, and Hyper</a></li>
+<li><a href="https://github.com/tokio-rs/axum/tree/v0.7.x" target="_blank" rel="noopener noreferrer">tokio-rs/axum at v0.7.x</a></li>
+</ul>
+</li>
+<li>2024-12-11 日志和监控<!-- -->
+<ul>
+<li><a href="https://course.rs/logs/intro.html" target="_blank" rel="noopener noreferrer">日志和监控 - Rust语言圣经(Rust Course)</a></li>
+<li>2024-12-11 <a href="https://course.rs/logs/tracing.html" target="_blank" rel="noopener noreferrer">使用 tracing 记录日志 - Rust语言圣经(Rust Course)</a></li>
+<li><a href="https://github.com/tokio-rs/tracing/tree/v0.1.x" target="_blank" rel="noopener noreferrer">tokio-rs/tracing at v0.1.x</a></li>
+<li><a href="https://github.com/open-telemetry/opentelemetry-rust" target="_blank" rel="noopener noreferrer">open-telemetry/opentelemetry-rust: The Rust OpenTelemetry implementation</a></li>
+<li><a href="https://opentelemetry.io/" target="_blank" rel="noopener noreferrer">OpenTelemetry</a></li>
+<li><a href="https://github.com/vectordotdev/vector" target="_blank" rel="noopener noreferrer">vectordotdev/vector: A high-performance observability data pipeline.</a></li>
+</ul>
+</li>
+<li>书签<!-- -->
+<ul>
+<li><a href="https://course.rs/practice/third-party-libs.html" target="_blank" rel="noopener noreferrer">日常开发三方库精选 - Rust语言圣经(Rust Course)</a></li>
+<li><a href="https://course.rs/practice/naming.html" target="_blank" rel="noopener noreferrer">命名规范 - Rust语言圣经(Rust Course)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>flutter<!-- -->
+<ul>
+<li>书签<!-- -->
+<ul>
+<li><a href="https://docs.flutter.cn/get-started/install/windows/desktop" target="_blank" rel="noopener noreferrer">开发 Windows 桌面应用 | Flutter 中文文档 - Flutter 中文开发者网站 - Flutter</a></li>
+<li><a href="https://docs.flutter.cn/ui" target="_blank" rel="noopener noreferrer">UI | Flutter 中文文档 - Flutter 中文开发者网站 - Flutter</a></li>
+<li><a href="https://docs.flutter.cn/tools/pubspec" target="_blank" rel="noopener noreferrer">Pubspec 文件的 Flutter 部分 | Flutter 中文文档 - Flutter 中文开发者网站 - Flutter</a></li>
+<li><a href="https://dart.cn/language/" target="_blank" rel="noopener noreferrer">Dart 基础 | Dart</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>]]></content:encoded>
+            <category>前进的脚步</category>
+        </item>
+        <item>
+            <title><![CDATA[配置vscode开发调试C C++]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-11-18-配置vscode开发调试C-C</link>
+            <guid>https://study.sayurinana.ink/blog/2024-11-18-配置vscode开发调试C-C</guid>
+            <pubDate>Mon, 18 Nov 2024 22:03:05 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 11</li>
+<li>IDE：VS Code</li>
+<li>MSYS2 - UCRT</li>
+</ul>
+</blockquote>
+<p>装好VS Code后，要用它来开发C/C++的话，需要装好C/C++用的编译器，然后再配置一下VS Code就可以一键调试了，</p>
+<p>我这里使用MSYS2来提供Windows下的gcc/g++编译器，</p>
+<p>参考：<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VS-Code">安装VS Code - 柒柒の窝</a></p>
+<h1>安装MSYS2和gcc/g++</h1>
+<p>也可以直接点开下面的官网链接，那就是个安装教程，只不过是英文，fufu，</p>
+<blockquote>
+<p>官网链接：<a href="https://www.msys2.org/" target="_blank" rel="noopener noreferrer">https://www.msys2.org/</a></p>
+<p>或见<a href="https://study.sayurinana.ink/blog/2024-11-18-%E9%85%8D%E7%BD%AEvscode%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95C-C#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>中分享的<strong>指定资源名</strong>，若使用分享的安装包则可以直接跳转至<a href="https://study.sayurinana.ink/blog/2024-11-18-%E9%85%8D%E7%BD%AEvscode%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95C-C#%E5%AE%89%E8%A3%85%E9%83%A8%E5%88%86">安装部分</a></p>
+</blockquote>
+<h1>获取安装包</h1>
+<p>访问<a href="https://www.msys2.org/" target="_blank" rel="noopener noreferrer">官网</a>，中间那个红色的Installation下面有个链接，就是windows可以用的安装包，</p>
+<p>点击下载，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-22-33-35_54cba0ef.png" alt="2024-11-18-22-33-35" class="img_ev3q"></p>
+<h1>安装部分</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="安装msys2">安装MSYS2<a href="https://study.sayurinana.ink/blog/2024-11-18-%E9%85%8D%E7%BD%AEvscode%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95C-C#%E5%AE%89%E8%A3%85msys2" class="hash-link" aria-label="安装MSYS2的直接链接" title="安装MSYS2的直接链接">​</a></h2>
+<p>双击运行安装包，第二步如果没有啥其他需求的话可以不用改路径，需要的话可以自己倒腾倒腾，</p>
+<p>默认的安装路径是<code>C:\mysys64</code>，后续需要把可执行文件添加到环境变量的，就用这个路径，</p>
+<p>再点下一步，<strong>Start Menu shortcuts</strong>这里不用改，这里是在开始菜单里快捷方式的文件夹名，下一步就好，</p>
+<p>然后它就开始安装了，等它装好就好，我的操作录制视频里面装了几分钟，我没剪辑的，可以自己跳一下进度条，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-10-41-55_d9cf8c31.png" alt="2024-11-19-10-41-55" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-10-42-29_bc365b26.png" alt="2024-11-19-10-42-29" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-11-05-26_816dae45.png" alt="2024-11-19-11-05-26" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-11-09-33_f609b3e8.png" alt="2024-11-19-11-09-33" class="img_ev3q"></p>
+<p>装好之后，到了<strong>Finished</strong>，把那个**Run MSYS2 now.**取消勾选，因为后面要手动打开UCRT的终端，</p>
+<p>这里我们只用到MSYS2的UCRT的东西，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-11-13-34_e39daf22.png" alt="2024-11-19-11-13-34" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="安装msys2-ucrt64-的-gcc-和-gdb">安装MSYS2 UCRT64 的 gcc 和 gdb<a href="https://study.sayurinana.ink/blog/2024-11-18-%E9%85%8D%E7%BD%AEvscode%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95C-C#%E5%AE%89%E8%A3%85msys2-ucrt64-%E7%9A%84-gcc-%E5%92%8C-gdb" class="hash-link" aria-label="安装MSYS2 UCRT64 的 gcc 和 gdb的直接链接" title="安装MSYS2 UCRT64 的 gcc 和 gdb的直接链接">​</a></h2>
+<p>在开始菜单的最近添加里能看到<strong>MSYS2 UCRT64</strong>（有些人可能把推荐的项目关了，不过会关闭这个的人应该也知道去哪里找这个东西了吧，我这就不赘述了），打开这个，会弹出一个新的终端，</p>
+<p>然后复制下面的两行命令，在这个终端里不要用快捷键粘贴，右击鼠标选择<strong>Paste</strong>来粘贴，</p>
+<p>然后回车执行命令（这两个命令需要联网，是从网上下载安装包安装的），等一下下会显示一个确认输入，这时候输入<code>y</code>，大小写都行，然后回车，等这个装好之后还有第二个包，也要输入一次<code>y</code>，等它装完,如果没报错没报error就可以关掉它了</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">pacman -S mingw-w64-ucrt-x86_64-gcc</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">pacman -S mingw-w64-ucrt-x86_64-gdb</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-11-14-06_ba7da3ef.png" alt="2024-11-19-11-14-06" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-11-18-01_a592b7e2.png" alt="2024-11-19-11-18-01" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-11-20-10_52d25db5.png" alt="2024-11-19-11-20-10" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="把curt的gccgdb添加到path">把CURT的gcc/gdb添加到PATH<a href="https://study.sayurinana.ink/blog/2024-11-18-%E9%85%8D%E7%BD%AEvscode%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95C-C#%E6%8A%8Acurt%E7%9A%84gccgdb%E6%B7%BB%E5%8A%A0%E5%88%B0path" class="hash-link" aria-label="把CURT的gcc/gdb添加到PATH的直接链接" title="把CURT的gcc/gdb添加到PATH的直接链接">​</a></h2>
+<p>关于Win配置环境变量参考：<a href="https://sayurinana.ink/2024-02-19-Windows%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.html" target="_blank" rel="noopener noreferrer">Windows配置环境变量 - 柒柒の窝</a></p>
+<p>改系统变量或者用户变量都行，只是改用户变量的话就只有当前用户生效，而系统变量对所有用户生效，</p>
+<p>我这里改了系统变量，找到Path，之前安装的时候路径是<code>C:\mysys64</code>，那么PATH路径里面就加一行<code>C:\msys64\ucrt64\bin</code>就好，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-13-57-38_59721f85.png" alt="2024-11-19-13-57-38" class="img_ev3q"></p>
+<p>确定三次直到关掉<strong>系统属性</strong>窗口后，一般就已经生效了，按<code>Win</code>+<code>r</code>输入<code>cmd</code>然后回车启动一个新的win命令行，输入下面这两行命令，正常的话应该能看到gcc和gdb版本号，如果没有的话可以重启一下系统，</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">gcc --version</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">gdb --version</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-13-59-51_c3c292db.png" alt="2024-11-19-13-59-51" class="img_ev3q"></p>
+<h1>配置vscode开发调试C/C++</h1>
+<p>一般使用vscode做C/C++开发，相关的配置文件是基于当前工作目录的，</p>
+<p>例如我这里演示的话，以位于C盘根目录的my-c-cpp-code文件夹为例，路径是<code>C:\my-c-cpp-code</code>，</p>
+<p>那么不论我的代码源文件是直接在这个文件夹下面，比如<code>C:\my-c-cpp-code\main.c</code>，还是在子文件夹里面，例如<code>C:\my-c-cpp-code\learn-1\main.c</code>，或是<code>C:\my-c-cpp-code\learn-2\main.c</code>，</p>
+<p>vscode对于它们的编译和调试，用到的配置文件都是应该位于<code>C:\my-c-cpp-code\.vscode</code>文件夹下的，<code>.vscode</code>文件夹就在工作目录<code>C:\my-c-cpp-code</code>下</p>
+<p>对于C/C++，主要是用到两个文件，<code>launch.json</code>和<code>tasks.json</code>，按照上面说的，</p>
+<p>我这里的工作目录是<code>C:\my-c-cpp-code</code>，那么这两个文件的路径就是<code>C:\my-c-cpp-code\.vscode\launch.json</code>和<code>C:\my-c-cpp-code\.vscode\tasks.json</code>，</p>
+<p>我把这两个文件内容贴这里，可以直接复制粘贴，如果上面安装gcc、gdb的时候没有改动路径，那么这个配置文件也可以直接照搬就能用不需要改动，</p>
+<p>然后装三个插件</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-15-07-52_cf17bbba.png" alt="2024-11-19-15-07-52" class="img_ev3q"></p>
+<p>然后我再贴个配好了之后有两个源文件的成果界面截图，至此看得懂的看图文应该就能配置出来了，看不懂就看后面视频跟着搞叭，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-14-41-33_b6d99499.png" alt="2024-11-19-14-41-33" class="img_ev3q"></p>
+<blockquote>
+<p>launch.json （如果前面安装的时候改了路径，就要改动第17行的路径到对应的位置）</p>
+</blockquote>
+<div class="language-json codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-json codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">"version"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"0.2.0"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">"configurations"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">[</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">        </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"name"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"(gdb) Launch"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"type"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"cppdbg"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"request"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"launch"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"program"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"${fileDirname}/${fileBasenameNoExtension}.exe"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"args"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token punctuation" style="color:#393A34">[</span><span class="token punctuation" style="color:#393A34">]</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"stopAtEntry"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token boolean" style="color:#36acaa">false</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"cwd"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"${fileDirname}"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"environment"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">[</span><span class="token punctuation" style="color:#393A34">]</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"externalConsole"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token boolean" style="color:#36acaa">false</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"MIMode"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"gdb"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"miDebuggerPath"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"C:/msys64/ucrt64/bin/gdb.exe"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"preLaunchTask"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"g++"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"setupCommands"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">[</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                    </span><span class="token property" style="color:#36acaa">"description"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"Enable pretty-printing for gdb"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                    </span><span class="token property" style="color:#36acaa">"text"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"-enable-pretty-printing"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                    </span><span class="token property" style="color:#36acaa">"ignoreFailures"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token boolean" style="color:#36acaa">true</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token punctuation" style="color:#393A34">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">        </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<blockquote>
+<p>task.json （如果前面安装的时候改了路径，就要改动第8行和第19行的路径到对应的位置）</p>
+</blockquote>
+<div class="language-json codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-json codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">"version"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"2.0.0"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">"tasks"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">[</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">        </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"type"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"shell"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"label"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"g++"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"command"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"C:/msys64/ucrt64/bin/g++.exe"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"args"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token punctuation" style="color:#393A34">[</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                </span><span class="token string" style="color:#e3116c">"-std=c++11"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                </span><span class="token string" style="color:#e3116c">"-g"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                </span><span class="token string" style="color:#e3116c">"${file}"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                </span><span class="token string" style="color:#e3116c">"-o"</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                </span><span class="token string" style="color:#e3116c">"${fileDirname}/${fileBasenameNoExtension}.exe"</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token punctuation" style="color:#393A34">]</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"options"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                </span><span class="token property" style="color:#36acaa">"cwd"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">"C:/msys64/ucrt64/bin/"</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token property" style="color:#36acaa">"problemMatcher"</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token punctuation" style="color:#393A34">[</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">                </span><span class="token string" style="color:#e3116c">"$gcc"</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">            </span><span class="token punctuation" style="color:#393A34">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">        </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h1>操作录屏视频</h1>
+<p>安装MSYS2</p>
+<video controls=""><source src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/blog-src/2024-11-18_22-40-10_%E5%AE%89%E8%A3%85MSYS2.mp4" type="video/mp4"></video>
+<p>配置CURT环境变量</p>
+<video controls=""><source src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/blog-src/2024-11-19_13-54-15_%E9%85%8D%E7%BD%AECURT%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.mp4" type="video/mp4"></video>
+<p>配置vscode开发调试C/C++</p>
+<video controls=""><source src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/blog-src/2024-11-19_14-24-23_%E9%85%8D%E7%BD%AEvscode%E5%BC%80%E5%8F%91c-c%2B%2B.mp4" type="video/mp4"></video>
+<h1>额外的关于调试功能</h1>
+<p>当你在那一行打了断点，并且以<strong>调试运行</strong>（快捷键<code>F5</code>）的方式运行程序而不是<strong>直接运行</strong>（快捷键<code>Shift</code>+<code>F5</code>），那么就会在运行到断点处停下来，</p>
+<p>此时的程序状态就是，在断点行之前的已经执行完了（注意遵循程序控制流，是指在此之前的程序流，而不是此文件中断点行前的所有代码行），并且断点行还没开始执行，</p>
+<p>调试过程中可以通过运行和调试的功能侧栏进行变量的查看，甚至可以修改变量，</p>
+<p>具体使用直接看视频吧，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/19/2024-11-19-14-48-46_549296f1.png" alt="2024-11-19-14-48-46" class="img_ev3q"></p>
+<p>视频演示：</p>
+<video controls=""><source src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/blog-src/2024-11-19_14-49-21_%E6%BC%94%E7%A4%BAvscode%E7%9A%84c%E8%B0%83%E8%AF%95%E5%8A%9F%E8%83%BD.mp4" type="video/mp4"></video>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中<code>v_2.0</code>的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<hr>
+<ul>
+<li>MSYS2 x86 64位 exe安装包<!-- -->
+<ul>
+<li>2024-11-18-配置vscode开发调试C-C/msys2-x86_64-20240727.exe</li>
+</ul>
+</li>
+</ul>
+<hr>]]></content:encoded>
+            <category>C/C++</category>
+        </item>
+        <item>
+            <title><![CDATA[安装git]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-11-18-安装git</link>
+            <guid>https://study.sayurinana.ink/blog/2024-11-18-安装git</guid>
+            <pubDate>Mon, 18 Nov 2024 21:33:10 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 11</li>
+</ul>
+</blockquote>
+<p>ennnnn，这只是一个很单纯的安装过程记录，装完了也就是装完了没啥其他的，</p>
+<p>快速学Git的话可以看看廖雪峰的Git教程：<a href="https://liaoxuefeng.com/books/git/introduction/index.html" target="_blank" rel="noopener noreferrer">简介 - Git教程 - 廖雪峰的官方网站</a></p>
+<p>感觉这个挺好使的，</p>
+<blockquote>
+<p>官网链接：<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">https://git-scm.com/</a></p>
+<p>或见<a href="https://study.sayurinana.ink/blog/2024-11-18-%E5%AE%89%E8%A3%85git#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>中分享的<strong>git 2.21.0 64位 exe安装包</strong>，若使用分享的安装包则可以直接跳转至<a href="https://study.sayurinana.ink/blog/2024-11-18-%E5%AE%89%E8%A3%85git#%E5%AE%89%E8%A3%85%E9%83%A8%E5%88%86">安装部分</a></p>
+</blockquote>
+<p>访问<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">官网</a>，点击<code>Download for Windows</code>，</p>
+<p>会进入Windows的安装包下载界面，如果你的电脑是64位Windows的话，点一下<a href="https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.2/Git-2.47.0.2-64-bit.exe" target="_blank" rel="noopener noreferrer">64-bit Git for Windows Setup</a>就好,不过它是从GitHub下载的，所以可能会很慢甚至无法下载，可以直接去我分享的资源里面拿，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-21-39-02_8f1e7c30.png" alt="2024-11-18-21-39-02" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-21-41-20_fefa01d4.png" alt="2024-11-18-21-41-20" class="img_ev3q"></p>
+<h1>安装部分</h1>
+<p>ennnnn，有了安装包之后，双击运行，</p>
+<p>其实大多数时候，咱不用在安装的时候调整啥配置，一直下一步就好了，就像下面视频</p>
+<video controls=""><source src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/blog-src/2024-11-18_20-46-06_%E5%AE%89%E8%A3%85git.mp4" type="video/mp4"></video>
+<h1>检验安装</h1>
+<p>直接<code>Win</code>+<code>R</code>，输入<code>cmd</code>，然后在弹出的黑框框命令行里面输入命令</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">git --version</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>正常的话，能看到安装好的git的版本号，比如我这里是 2.21.0</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-21-47-25_d2235176.png" alt="2024-11-18-21-47-25" class="img_ev3q"></p>
+<h1>额外配置</h1>
+<p>我真的很爱用<code>git lg</code>这个别名命令，复制粘贴下面这行命令来配置这个别名，</p>
+<p>来自：<a href="https://liaoxuefeng.com/books/git/customize/alias/index.html" target="_blank" rel="noopener noreferrer">配置别名 - Git教程 - 廖雪峰的官方网站</a></p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit"</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-21-53-14_c7d39739.png" alt="2024-11-18-21-53-14" class="img_ev3q"></p>
+<p>复制粘贴到命令行里回车就好了，学了git之后试试叭，好东西嘿嘿🥰</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-21-54-44_800d45d1.png" alt="2024-11-18-21-54-44" class="img_ev3q"></p>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中<code>v_2.0</code>的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<hr>
+<ul>
+<li>git 2.21.0 64位 exe安装包<!-- -->
+<ul>
+<li>2024-11-18-安装git/Git-2.21.0-64-bit.exe</li>
+</ul>
+</li>
+</ul>
+<hr>]]></content:encoded>
+            <category>能知其然而不知其所以然的教程</category>
+            <category>新人参考系列</category>
+        </item>
+        <item>
+            <title><![CDATA[安装和使用一个小玩意儿-everything]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-11-17-安装和使用一个小玩意儿-everything</link>
+            <guid>https://study.sayurinana.ink/blog/2024-11-17-安装和使用一个小玩意儿-everything</guid>
+            <pubDate>Sun, 17 Nov 2024 21:45:59 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 11</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>官网链接：<a href="https://www.voidtools.com/zh-cn/downloads/" target="_blank" rel="noopener noreferrer">https://www.voidtools.com/zh-cn/downloads/</a></p>
+<p>或见<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%8E%A9%E6%84%8F%E5%84%BF-everything#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>中分享的<strong>everything 1.4.1.1009 64位 exe安装包</strong>，若使用分享的安装包则可以直接跳转至<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%8E%A9%E6%84%8F%E5%84%BF-everything#%E5%AE%89%E8%A3%85%E9%83%A8%E5%88%86">安装部分</a></p>
+</blockquote>
+<p>访问<a href="https://www.voidtools.com/zh-cn/downloads/" target="_blank" rel="noopener noreferrer">官网</a></p>
+<p>点下载安装版64位</p>
+<img src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-21-49-54_954be020.png" alt="2024-11-17-21-49-54" style="zoom:33%">
+<h1>安装部分</h1>
+<ol>
+<li>双击运行安装包</li>
+</ol>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-21-53-14_d3af42e1.png" alt="2024-11-17-21-53-14" class="img_ev3q"></p>
+<ol start="2">
+<li>点一次<strong>我接受</strong>，两次<strong>下一步</strong>，一次<strong>安装</strong>，中途可能会弹出一个是否允许更改，选<strong>是</strong></li>
+</ol>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-21-54-25_99ec2c30.png" alt="2024-11-17-21-54-25" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-21-54-44_6a0c7c45.png" alt="2024-11-17-21-54-44" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-21-55-48_d0b6d445.png" alt="2024-11-17-21-55-48" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-21-56-00_53df8de1.png" alt="2024-11-17-21-56-00" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-04-57_0c443c9f.png" alt="2024-11-17-22-04-57" class="img_ev3q"></p>
+<ol start="3">
+<li>TODO!!!</li>
+</ol>
+<h1>使用部分</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="双击桌面图标或其他方式运行everything">双击桌面图标或其他方式运行Everything<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%8E%A9%E6%84%8F%E5%84%BF-everything#%E5%8F%8C%E5%87%BB%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87%E6%88%96%E5%85%B6%E4%BB%96%E6%96%B9%E5%BC%8F%E8%BF%90%E8%A1%8Ceverything" class="hash-link" aria-label="双击桌面图标或其他方式运行Everything的直接链接" title="双击桌面图标或其他方式运行Everything的直接链接">​</a></h2>
+<p>TODO!!!</p>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中<code>v_2.0</code>的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<hr>
+<ul>
+<li>everything 1.4.1.1009 64位 exe安装包<!-- -->
+<ul>
+<li>2024-11-17-安装和使用一个小玩意儿-everything/Everything-1.4.1.1009.x64-Setup.exe</li>
+</ul>
+</li>
+</ul>
+<hr>]]></content:encoded>
+            <category>新人参考系列</category>
+        </item>
+        <item>
+            <title><![CDATA[安装VMware WorkStation和新建虚拟机]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-11-17-安装VMware-WorkStation和新建虚拟机</link>
+            <guid>https://study.sayurinana.ink/blog/2024-11-17-安装VMware-WorkStation和新建虚拟机</guid>
+            <pubDate>Sun, 17 Nov 2024 17:24:43 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 11 ( 22H2 )</li>
+<li>已配置<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%8E%A9%E6%84%8F%E5%84%BF-everything">Everything</a></li>
+</ul>
+</blockquote>
+<p>VMware在一段时间前被博通收购了，并且从2024年11月12日起，宣布VMware Workstation Pro和Fusion Pro将对所有用户彻底免费，包括商业、教育和个人用户，</p>
+<blockquote>
+<p>官网链接：<a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank" rel="noopener noreferrer">https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion</a></p>
+<p>或见<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VMware-WorkStation%E5%92%8C%E6%96%B0%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>中分享的<strong>指定资源名</strong>，若使用分享的安装包则可以直接跳转至<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VMware-WorkStation%E5%92%8C%E6%96%B0%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA#%E5%AE%89%E8%A3%85%E9%83%A8%E5%88%86">安装部分</a></p>
+</blockquote>
+<p>访问<a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank" rel="noopener noreferrer">官网</a>，点击左边居中的那一个长条按钮<code>DOWNLOAD FUSION OR WORKSTATION</code>,</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-20-51-37_131ad1bd.png" alt="2024-11-17-20-51-37" class="img_ev3q"></p>
+<p>然后会跳转到博通的网站，登录，没有账户的话注册一个然后登录，</p>
+<p>（我这写到这里的时候网卡了，官网页面加载不出来，后面的暂时先不写了，）</p>
+<h1>安装部分</h1>
+<p>网上现有的关于怎么安装的教程还是挺多的，这里就不多赘述了，</p>
+<blockquote>
+<p>可以直接在我的<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VMware-WorkStation%E5%92%8C%E6%96%B0%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>里拿<strong>WMware workstation 17.6.1 exe安装包</strong>和<strong>拟机各版本秘钥文本文件</strong></p>
+</blockquote>
+<p>放个别人的文章的链接：</p>
+<p><a href="https://blog.csdn.net/weixin_74195551/article/details/127288338" target="_blank" rel="noopener noreferrer">安装虚拟机（VMware）保姆级教程（附安装包）_vmware虚拟机-CSDN博客</a></p>
+<h1>新建虚拟机</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="准备好系统镜像">准备好系统镜像<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VMware-WorkStation%E5%92%8C%E6%96%B0%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA#%E5%87%86%E5%A4%87%E5%A5%BD%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F" class="hash-link" aria-label="准备好系统镜像的直接链接" title="准备好系统镜像的直接链接">​</a></h2>
+<p>可以直接在我的<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VMware-WorkStation%E5%92%8C%E6%96%B0%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>里拿<strong>Win11 22H2 中文简体 64位 系统镜像文件</strong>，</p>
+<p>或者自己去下载，去<a href="https://www.microsoft.com/zh-cn/software-download/windows11" target="_blank" rel="noopener noreferrer">微软官网</a>下载，</p>
+<blockquote>
+<p>镜像下好之后就准备的差不多了，后面的步骤先是文档描述，然后后面还会有个视频，是操作步骤录屏，</p>
+<p>不过虽然有录屏，但是我没有做更多后期剪辑的，觉得视频太快的话建议暂停加慢放，</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="配置好虚拟网络">配置好虚拟网络<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VMware-WorkStation%E5%92%8C%E6%96%B0%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA#%E9%85%8D%E7%BD%AE%E5%A5%BD%E8%99%9A%E6%8B%9F%E7%BD%91%E7%BB%9C" class="hash-link" aria-label="配置好虚拟网络的直接链接" title="配置好虚拟网络的直接链接">​</a></h2>
+<blockquote>
+<p>虽然VMware是有自动桥接的功能的，但是这个功能有时候容易抽风，会自动桥街到一个连不上网的网卡，尤其是同时存在两个甚至更多网卡的时候，比如一个有线一个无线，</p>
+<p>这种时候就最好是手动配置，直接指定桥接到某个网卡</p>
+</blockquote>
+<p>在开始菜单里面，展开<strong>所有应用</strong>，找到VMware里面的<strong>虚拟网络编辑器</strong>，</p>
+<p>或者是<code>Win</code>+<code>1</code>直接启动Everything，搜索<code>vmnetcfg.exe</code>，</p>
+<p>然后以管理员身份运行，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-10-50_8692cc28.png" alt="2024-11-17-22-10-50" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-11-34_700b55e0.png" alt="2024-11-17-22-11-34" class="img_ev3q"></p>
+<p>把原本的VMnet0设置为<strong>仅主机模式</strong>（这个一定要改哈，不然后面桥接指定网卡那一步做不了的哩），</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-13-03_57cfe11f.png" alt="2024-11-17-22-13-03" class="img_ev3q"></p>
+<p>然后点<strong>添加网络</strong>，展开列表，选一个看着顺眼的名字，然后点<strong>确定</strong></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-27-13_5e2975e2.png" alt="2024-11-17-22-27-13" class="img_ev3q"></p>
+<p>不喜欢这个原本的名字可以点<strong>重命名网络</strong>，比如我这里给它重命名为<code>LocalLAN</code>，因为我专门用这个虚拟网卡来桥接我主机上主板的有线网卡，</p>
+<p>选中新添加的网络名称，比如我这里是单击<code>LocalLAN</code>这一条，</p>
+<p>选中下面第一条<strong>桥接模式</strong>，然后展开<strong>已桥接至</strong>，可以看到自己机器上目前可以桥接的网卡名列表，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-32-00_31fa7500.png" alt="2024-11-17-22-32-00" class="img_ev3q"></p>
+<p>好，这个暂时先到这里，窗口别关，接下来是关于选哪一个，</p>
+<p>按<code>Win</code>+<code>r</code>，输入<code>control</code>然后回车打开控制面板，</p>
+<p>点左边一列第二排的大标题<strong>网络和Internet</strong>，在新出现的界面点<strong>网络和共享中心</strong>，然后再点左侧的<strong>更改适配器设置</strong>，</p>
+<p>在这里可以看到现在机器上可用的网卡，通常叫<strong>以太网</strong>的或者第三排信息里有<strong>GbE</strong>的就是有线网卡，有<strong>Wireless</strong>的就是无线网卡，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-33-35_acbacd2f.png" alt="2024-11-17-22-33-35" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-35-01_d43f2f3e.png" alt="2024-11-17-22-35-01" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-35-38_56ad9d84.png" alt="2024-11-17-22-35-38" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-22-37-13_f993785c.png" alt="2024-11-17-22-37-13" class="img_ev3q"></p>
+<p>然后回到刚刚配置虚拟网络的窗口<strong>虚拟网络编辑器</strong>，在<strong>已桥接至</strong>的列表里，选择你要用来联网的网卡，我这里因为我是用有线网来联网，所以我指定了桥接有线网卡，</p>
+<p>如果是笔记本连无线网的，应该要选wireless网卡对应的那一条名字，</p>
+<p>选好之后就点最底下的按钮，先点<strong>应用</strong>，没啥问题了就点<strong>确定</strong>，不出意外的话是没问题的，有问题就解决，</p>
+<p>目前我弄了很多次好像这一步还没出过问题，</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="开始创建虚拟机-win11">开始创建虚拟机-Win11<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VMware-WorkStation%E5%92%8C%E6%96%B0%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA#%E5%BC%80%E5%A7%8B%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA-win11" class="hash-link" aria-label="开始创建虚拟机-Win11的直接链接" title="开始创建虚拟机-Win11的直接链接">​</a></h2>
+<p>打开VMware，新建虚拟机，</p>
+<p>从左上角菜单命令点，或者快捷键，或者中间那个大大的加号按钮都成，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-14-22-28_57e439f8.png" alt="2024-11-18-14-22-28" class="img_ev3q"></p>
+<p>TODO!!! //以后再来搞, 刚刚装Win11，一直在更新，浪费好多时间，给我干破防了，暂时先不写这个了，</p>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中<code>v_2.0</code>的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<hr>
+<ul>
+<li>WMware workstation 17.6.1 exe安装包<!-- -->
+<ul>
+<li>2024-11-17-安装VMware-WorkStation和新建虚拟机/VMware-workstation-full-17.6.1-24319023.exe</li>
+</ul>
+</li>
+<li>虚拟机各版本秘钥文本文件<!-- -->
+<ul>
+<li>2024-11-17-安装VMware-WorkStation和新建虚拟机/vmware-keys.txt</li>
+</ul>
+</li>
+<li>Win11 22H2 中文简体 64位 系统镜像文件<!-- -->
+<ul>
+<li>2024-11-17-安装VMware-WorkStation和新建虚拟机/Win11_22H2_Chinese_Simplified_x64v1.iso</li>
+</ul>
+</li>
+<li>Windows 长时间停止更新 注册表文件<!-- -->
+<ul>
+<li>2024-11-17-安装VMware-WorkStation和新建虚拟机/stop update.reg</li>
+</ul>
+</li>
+</ul>
+<hr>]]></content:encoded>
+            <category>新人参考系列</category>
+        </item>
+        <item>
+            <title><![CDATA[安装VS Code]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-11-17-安装VS-Code</link>
+            <guid>https://study.sayurinana.ink/blog/2024-11-17-安装VS-Code</guid>
+            <pubDate>Sun, 17 Nov 2024 16:32:11 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 10 / 11 ( 22H2 )</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>官网链接：<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">https://code.visualstudio.com/</a></p>
+<p>或见<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VS-Code#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>中分享的<strong>VS Code v 1.95.3 Windows x64 exe安装包</strong>，若使用分享的安装包则可以直接跳转至<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VS-Code#%E4%BD%BF%E7%94%A8%E5%AE%89%E8%A3%85%E5%8C%85%E5%BC%80%E5%A7%8B%E5%AE%89%E8%A3%85">安装部分</a></p>
+</blockquote>
+<p>访问<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">官网</a>，点击<code>Download for Windows</code>，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-17-08-33_eeb2de95.png" alt="2024-11-17-17-08-33" class="img_ev3q"></p>
+<p>然后会看到如下界面，</p>
+<p>正常的话几秒钟后会自动开始下载或者弹出其他软件接管的下载窗口例如迅雷或IDM，如果迟迟没有开始下载的话，就点绿色框中间那个链接<a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" target="_blank" rel="noopener noreferrer"><code>direct download link</code></a>，手动开始下载</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-17-10-09_3c162860.png" alt="2024-11-17-17-10-09" class="img_ev3q"></p>
+<h1>使用安装包开始安装</h1>
+<p>双击运行安装包，然后选<strong>我同意此协议</strong>，点三次下一步，然后停下来勾选点东西，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-37-31_8d5f6e77.png" alt="2024-11-18-20-37-31" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-38-14_5e73731b.png" alt="2024-11-18-20-38-14" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-38-25_a30e49cf.png" alt="2024-11-18-20-38-25" class="img_ev3q"></p>
+<p>这几个都选上，再点下一步，然后点安装就好了，等它自己装好，然后点完成，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-39-33_4e52a827.png" alt="2024-11-18-20-39-33" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-40-57_cb4ac156.png" alt="2024-11-18-20-40-57" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-41-33_eea80b1b.png" alt="2024-11-18-20-41-33" class="img_ev3q"></p>
+<h1>装一些插件</h1>
+<blockquote>
+<p>这里都是一些我感觉日常好用的，可以参考一下，选择需要的安装，</p>
+<p>这图里五个从上到下功能分别是：汉化、git仓库可视化、暗色主题、项目管理器、图标优化</p>
+</blockquote>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-51-55_d14b713b.png" alt="2024-11-18-20-51-55" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="安装方法">安装方法<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VS-Code#%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95" class="hash-link" aria-label="安装方法的直接链接" title="安装方法的直接链接">​</a></h2>
+<p>打开vscode之后，点左侧最后一个按钮，打开<strong>扩展</strong>的侧栏，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-53-26_ccc93ede.png" alt="2024-11-18-20-53-26" class="img_ev3q"></p>
+<p>然后再侧栏顶部搜索栏里输入扩展的名字，</p>
+<p>例如我上面提到的那五个，搜汉化插件输入<code>Chinese</code>应该就能看到了，倒也不必全部输入完，能搜到就行，然后点对应的那一条的右边的<strong>安装</strong>按钮，因为我这里这个插件已经装好了所以右边没有安装按钮了，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-55-45_90fcb864.png" alt="2024-11-18-20-55-45" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-20-57-51_fc3b4829.png" alt="2024-11-18-20-57-51" class="img_ev3q"></p>
+<p>其他的几个插件的名字分别可以搜：<code>Git Graph</code> <code>One Dark Pro</code> <code>Project Manager</code> <code>vscode-icons</code></p>
+<h1>打开vscode的方法</h1>
+<p>ennnnn，双击图标运行我这就不说了，实际上平时最常用的打开方式，至少，对我来说最常用的方式是右击菜单里的<strong>通过Code打开</strong>，</p>
+<p>还可以把需要用vscode打开的文件夹或文件，拖到图标上打开对应位置，</p>
+<p>有一种用的少的方法，就是通过<strong>运行</strong>窗口，按<code>Win</code>+<code>R</code>，输入<code>code</code>，回车，就好了，</p>
+<h1>题外话，插件project manager的用处</h1>
+<p>这个东西用好了可以更高效快速的使用VS Code，我文字提一下然后看视频效果吧，</p>
+<p>可以把文件夹位置或者打开的工作区存成一个项目project，可以给他起个好记的有标识性的名字，不影响原文件夹名，</p>
+<p>对于项目的记录项：</p>
+<ul>
+<li>直接点击是当前窗口切换</li>
+<li>点右侧按钮是新窗口打开</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/18/2024-11-18-21-13-23_bcccf883.png" alt="2024-11-18-21-13-23" class="img_ev3q"></p>
+<h1>操作过程录屏</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="安装vs-code">安装VS Code<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VS-Code#%E5%AE%89%E8%A3%85vs-code" class="hash-link" aria-label="安装VS Code的直接链接" title="安装VS Code的直接链接">​</a></h2>
+<video controls=""><source src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/blog-src/2024-11-18_20-33-22_%E5%AE%89%E8%A3%85VS-Code.mp4" type="video/mp4"></video>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="演示code插件project-manager">演示Code插件Project Manager<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VS-Code#%E6%BC%94%E7%A4%BAcode%E6%8F%92%E4%BB%B6project-manager" class="hash-link" aria-label="演示Code插件Project Manager的直接链接" title="演示Code插件Project Manager的直接链接">​</a></h2>
+<video controls=""><source src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/blog-src/2024-11-18_21-04-26_vscode%E6%BC%94%E7%A4%BAproject-manager.mp4" type="video/mp4"></video>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中<code>v_2.0</code>的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<hr>
+<ul>
+<li>VS Code v 1.95.3 Windows x64 exe安装包<!-- -->
+<ul>
+<li>2024-11-17_安装VS-Code/VSCodeUserSetup-x64-1.95.3.exe</li>
+</ul>
+</li>
+</ul>
+<hr>]]></content:encoded>
+            <category>能知其然而不知其所以然的教程</category>
+            <category>新人参考系列</category>
+        </item>
+        <item>
+            <title><![CDATA[计算机专业通用基础技能参考]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-11-17-计算机专业通用基础技能参考</link>
+            <guid>https://study.sayurinana.ink/blog/2024-11-17-计算机专业通用基础技能参考</guid>
+            <pubDate>Sun, 17 Nov 2024 13:39:08 GMT</pubDate>
+            <description><![CDATA[计算机专业的新生可以参考摘选一些需要的看看，个人观点仅供学习参考]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>计算机专业的新生可以参考摘选一些需要的看看，个人观点仅供学习参考</p>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 11 ( 22H2 )</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>都是些很基础很经典的东西，网上的学习资料已经很完善很成熟了，</p>
+<p>我这就只是提一下这些，顶多只是稍微教一下怎么安装软件，分享一下资源，不用忍受某些官网资源几KBps的下载速度，或是网上东西一顿找资源打水漂大把时间的烦恼，</p>
+<p>至于怎么学，，自己找资料吧，这是<strong>本专业非常非常非常重要的能力！！！</strong>，如果这个不行的话，还是算了吧🫠，（实际上绝大多数的东西都可以直接看官网的文档Document来学，没必要看别人转述的某某“史上最全***，**万字，这一篇就够了！”，当然我不是说这些文章不好，很感谢这些互联网上的佬们的贡献和付出，只是说，要学会看文档，静下心来认真学，别急）</p>
+<p>如果哪天网上都找不到这些东西的好的资料了，那么要么是这些东西都被淘汰的差不多了，要么是，，，互联网已经被搞得乌烟瘴气，被搞成一座座信息孤岛，变得极其令人失望了，，</p>
+</blockquote>
+<p>唔，，，内个，初学的新人如果真的看到了这些，我写的这些<a href="https://study.sayurinana.ink/blog/tags/%E6%96%B0%E4%BA%BA%E5%8F%82%E8%80%83%E7%B3%BB%E5%88%97/">新人参考系列</a>的话，</p>
+<p>如果有哪些地方有疑惑的，有我联系方式的可以直接问，没有的可以邮箱（<a href="mailto:sayurinana@163.com" target="_blank" rel="noopener noreferrer">sayurinana@163.com</a>）发我，额，如果不会发电子邮件，去搜索然后学学吧，我这里暂时应该不会写这个步骤，发给我的有时间会回的，没时间也会说一声，哪些地方有问题，告诉我，我好改进，</p>
+<p>毕竟我现在写这些的时候，我已经不是真的“新人”了，即使换位思考，很多地方我的思维也许已经回不去了，并且我自己也没有意识到，</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="自言自语"><em>自言自语</em><a href="https://study.sayurinana.ink/blog/2024-11-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%8F%82%E8%80%83#%E8%87%AA%E8%A8%80%E8%87%AA%E8%AF%AD" class="hash-link" aria-label="自言自语的直接链接" title="自言自语的直接链接">​</a></h2>
+<blockquote>
+<p>作为计算机本专业的学生，不论有没有打算之后走硬件还是软件或者兼通，</p>
+<p>都应该掌握基本的C语言，这有利于之后对其他语言的学习和理解，</p>
+<p>即使只是打算做一些较高层次的编程，相对来说C也许稍偏底层了，但日后精进时若要接触到算法、优化之类，
+这时，先从“高级语言”入手的会在接触一些底层的概念时有额外的阻力，因为平时高层次的抽象用惯了，</p>
+<p>所谓“由俭入奢易，由奢入俭难”，</p>
+<p>如果是非计算机专业，例如文化类主要是用Office软件更多或者是理学院可能需要matlab这样的科学计算更多，只是借由编程语言来实现更自由的科学计算或者是脚本辅助办公，直接从python入手也无妨，不如说这就是最佳选择，</p>
+<p>但计算机本专业还是从C开始入门好，不至于太偏底层，也不至于抽象层次太高，偏离基础，
+而且通常都是能有一定实用性的，比如后续学习C++然后练习算法，或是走硬件转Keil C嵌入式入门</p>
+<p>汇编的话，，如果不是要学习真的“底层”，软件/硬件接口，裸机层次的，一般是不用去看的，</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="学习之前">学习之前<a href="https://study.sayurinana.ink/blog/2024-11-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%8F%82%E8%80%83#%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%89%8D" class="hash-link" aria-label="学习之前的直接链接" title="学习之前的直接链接">​</a></h2>
+<p>我现在写到这里的时候，现在是2024年11月17日，目前而言我感觉不论是对于学习阶段还是一些较小的小作业，小工具的开发调试，使用<code>VS Code</code>都挺合适的，全称<code>Microsoft Visual Studio Code</code>，是免费软件，微软官方有免费的版本，别被骗了哈，，，</p>
+<blockquote>
+<p>官网链接：<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">https://code.visualstudio.com/</a></p>
+</blockquote>
+<p><code>VS Code</code>本质上只是一个文本编辑器，仅此而言与编程语言没有太深的关联，可以在学习之前先把这个装起来，</p>
+<p>vscode的安装可以参考：<a href="https://study.sayurinana.ink/blog/2024-11-17-%E5%AE%89%E8%A3%85VS-Code">安装VS Code - 柒柒の窝</a></p>
+<p>配置vscode用来开发调试C/C++可以参考：<a href="https://study.sayurinana.ink/blog/2024-11-18-%E9%85%8D%E7%BD%AEvscode%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95C-C">配置vscode开发调试C C++ - 柒柒の窝</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="学习方式">学习方式<a href="https://study.sayurinana.ink/blog/2024-11-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%8F%82%E8%80%83#%E5%AD%A6%E4%B9%A0%E6%96%B9%E5%BC%8F" class="hash-link" aria-label="学习方式的直接链接" title="学习方式的直接链接">​</a></h2>
+<p>我看现在好像大多数人喜欢看视频学习，主要是BiliBili和一些公开课网站，</p>
+<p>我自己没看过所以不予言论，我更喜欢看书学习，感觉这样效率更高，而且学的更快的同时却不失细致，具体质量取决于书籍质量和阅读学习的效率，</p>
+<p>推荐书籍是《<em><strong>C Primer Plus</strong></em>》，底下我的资源列表里分享的有，</p>
+<p>或者实际上我更建议去自己学校的图书馆借，这是很经典的书，应该是不会没有的，</p>
+<p>学完了之后如果不想带本很大的书作为工具书，可以在这些网站找到一些库文档，参考引用，</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="c-参考手册"><a href="https://zh.cppreference.com/w/c" target="_blank" rel="noopener noreferrer">C 参考手册</a><a href="https://study.sayurinana.ink/blog/2024-11-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%8F%82%E8%80%83#c-%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C" class="hash-link" aria-label="c-参考手册的直接链接" title="c-参考手册的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-15-53-17_e3228fc8.png" alt="2024-11-17-15-53-17" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="读书中的一点小建议">读书中的一点小建议<a href="https://study.sayurinana.ink/blog/2024-11-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%8F%82%E8%80%83#%E8%AF%BB%E4%B9%A6%E4%B8%AD%E7%9A%84%E4%B8%80%E7%82%B9%E5%B0%8F%E5%BB%BA%E8%AE%AE" class="hash-link" aria-label="读书中的一点小建议的直接链接" title="读书中的一点小建议的直接链接">​</a></h3>
+<p>如果在阅读中，遇到某些疑难点，不要钻牛角尖，可以先在心里留个印象，继续往后面看，</p>
+<p>我认为编程语言是一个很系统的东西，环环相扣的，不能像数学从小学到初中到高中那样，在完全不提及后期或者说知识点排布离当前知识点距离很远的那些点的情况下，完成当前知识点的学习和理解，把不了解的东西，当做一个黑盒，先用着，快点往后学，学着学着就通透了，慢慢拨云见日，</p>
+<p>也许我上面这个说法有错误，毕竟首先我自己并不是什么大拿，其次我不善表达，但这种学习方法在我学很多东西的时候都挺好用的，</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="关于学习时间">关于学习时间<a href="https://study.sayurinana.ink/blog/2024-11-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%8F%82%E8%80%83#%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0%E6%97%B6%E9%97%B4" class="hash-link" aria-label="关于学习时间的直接链接" title="关于学习时间的直接链接">​</a></h2>
+<p>学习花的时间也是很重要的，别的不清楚不好说，大学生的话，如果报了一大堆七七八八的活动我也不好说，我没弄过，但是如果是没报那些活动的话，即使是一天满课，实际上也是能挤出三个小时的时间的，更别说更多时候每天只有一两节课，而且还有假期，<strong>没有什么是比假期更好的学习时间了</strong>，连续！自由！无限制！量大管饱！，一个字，爽！</p>
+<p>在上述前提下，应该是能在一个月甚至是两周内完成语言基本特性（以下图我分享的C Primer Plus第五版中文版的章节为例，指从前言到第11章字符串和字符函数）的学习和实践的，后续就可以稍花点时间来做点综合性的小玩意儿练练手回顾回顾差不多了，</p>
+<img src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/17/2024-11-17-15-38-52_131269d8.png" alt="2024-11-17-15-38-52" style="zoom:50%">
+<p>如果花的超过了一个月的时间，我认为那就是学习态度问题，</p>
+<h1>2. Git 和 GitHub</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="git">Git<a href="https://study.sayurinana.ink/blog/2024-11-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%8F%82%E8%80%83#git" class="hash-link" aria-label="Git的直接链接" title="Git的直接链接">​</a></h2>
+<p>是一个分布式的版本控制软件，它允许在多个地方同时修改同一个文件，并且可以回退到任何版本，</p>
+<blockquote>
+<p>官网链接：<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">https://git-scm.com/</a></p>
+</blockquote>
+<p>快速学Git的话可以看看廖雪峰的Git教程：<a href="https://liaoxuefeng.com/books/git/introduction/index.html" target="_blank" rel="noopener noreferrer">简介 - Git教程 - 廖雪峰的官方网站</a></p>
+<p>简单安装可以参考 : <a href="https://study.sayurinana.ink/blog/2024-11-18-%E5%AE%89%E8%A3%85git">安装git - 柒柒の窝</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="额外提一嘴">额外提一嘴<a href="https://study.sayurinana.ink/blog/2024-11-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%8F%82%E8%80%83#%E9%A2%9D%E5%A4%96%E6%8F%90%E4%B8%80%E5%98%B4" class="hash-link" aria-label="额外提一嘴的直接链接" title="额外提一嘴的直接链接">​</a></h3>
+<p>我真的很爱用<code>git lg</code>这个别名命令，复制粘贴下面这行命令来配置这个别名，</p>
+<p>来自：<a href="https://liaoxuefeng.com/books/git/customize/alias/index.html" target="_blank" rel="noopener noreferrer">配置别名 - Git教程 - 廖雪峰的官方网站</a></p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit"</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>好东西嘿嘿🥰</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="github">GitHub<a href="https://study.sayurinana.ink/blog/2024-11-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%8F%82%E8%80%83#github" class="hash-link" aria-label="GitHub的直接链接" title="GitHub的直接链接">​</a></h2>
+<p>是一个基于Git的代码托管平台，它允许用户上传和分享代码，并且可以 fork 和 clone 代码仓库，</p>
+<blockquote>
+<p>官网链接：<a href="https://github.com/" target="_blank" rel="noopener noreferrer">https://github.com/</a></p>
+</blockquote>
+<p>这两个都是很重要的东西，网上现有的资料都很成熟了，我这里就不教具体怎么用的，放个能让人知其然而不知其所以然的安装教程和资源分享就差不多了，</p>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中<code>v_2.0</code>的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<hr>
+<ul>
+<li>C Primer Plus 第五版 中文版 PDF<!-- -->
+<ul>
+<li>2024-11-17_计算机专业通用基础技能参考/C Primer Plus(第五版)中文版.pdf</li>
+</ul>
+</li>
+<li>C ++ Primer Plus 第六版 中文版 PDF<!-- -->
+<ul>
+<li>2024-11-17_计算机专业通用基础技能参考/C++ Primer Plus中文版6版 史蒂芬·普拉达.pdf</li>
+</ul>
+</li>
+</ul>
+<hr>]]></content:encoded>
+            <category>新人参考系列</category>
+        </item>
+        <item>
+            <title><![CDATA[常用网页分类索引]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-11-12-常用网页分类索引</link>
+            <guid>https://study.sayurinana.ink/blog/2024-11-12-常用网页分类索引</guid>
+            <pubDate>Tue, 12 Nov 2024 11:20:47 GMT</pubDate>
+            <description><![CDATA[一些常用的网页，比如一些编程语言的标准库资料]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>一些常用的网页，比如一些编程语言的标准库资料</p>
+</blockquote>
+<ul>
+<li><a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer">Rust 官网</a></li>
+<li><a href="https://www.rust-lang.org/zh-CN/" target="_blank" rel="noopener noreferrer">Rust 官网 中文版</a></li>
+<li><a href="https://course.rs/about-book.html" target="_blank" rel="noopener noreferrer">Rust 圣经</a></li>
+<li><a href="https://doc.rust-lang.org/std/index.html" target="_blank" rel="noopener noreferrer">Rust 标准库</a></li>
+<li><a href="https://doc.rust-lang.org/cargo/index.html" target="_blank" rel="noopener noreferrer">Cargo 文档</a></li>
+<li><a href="https://rust-cli.github.io/book/index.html" target="_blank" rel="noopener noreferrer">Rust 命令行 文档</a></li>
+<li><a href="https://crates.io/" target="_blank" rel="noopener noreferrer">crates.io</a></li>
+</ul>
+<h1>C/C++</h1>
+<ul>
+<li><a href="https://en.cppreference.com/w/" target="_blank" rel="noopener noreferrer">cppreference.com</a></li>
+<li><a href="https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5" target="_blank" rel="noopener noreferrer">cppreference.com 中文版</a></li>
+<li><a href="https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents.html" target="_blank" rel="noopener noreferrer">C++ 风格指南</a></li>
+<li><a href="https://www.boost.org/" target="_blank" rel="noopener noreferrer">Boost C++ 库</a></li>
+</ul>
+<h1>Python</h1>
+<ul>
+<li><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python 官网</a></li>
+<li><a href="https://docs.python.org/zh-cn/3/" target="_blank" rel="noopener noreferrer">Python3 官方文档 中文版</a></li>
+<li><a href="https://docs.python.org/zh-cn/3.9/library/index.html" target="_blank" rel="noopener noreferrer">Python 3.9 标准库文档 中文版</a>
+<ul>
+<li>可以在网页左上角切换版本和语言</li>
+<li><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader/2024/11/12/2024-11-12-15-34-25_6702d57c.png" alt="2024-11-12-15-34-25" class="img_ev3q"></li>
+</ul>
+</li>
+<li><a href="https://pypi.org/" target="_blank" rel="noopener noreferrer">Python官方第三方库索引站 PyPI</a></li>
+</ul>
+<h1>Java</h1>
+<ul>
+<li><a href="https://www.oracle.com/java/technologies/downloads" target="_blank" rel="noopener noreferrer">Java官网下载</a></li>
+</ul>]]></content:encoded>
+            <category>推荐</category>
+            <category>新人参考系列</category>
+        </item>
+        <item>
+            <title><![CDATA[学习PS高反差磨皮]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-04-26-学习PS高反差磨皮</link>
+            <guid>https://study.sayurinana.ink/blog/2024-04-26-学习PS高反差磨皮</guid>
+            <pubDate>Fri, 26 Apr 2024 15:38:20 GMT</pubDate>
+            <description><![CDATA[ennnnn，给和女朋友一起出去玩的照片做后期啦，临时补充一下平面后期技能~]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>ennnnn，给和女朋友一起出去玩的照片做后期啦，临时补充一下平面后期技能~</p>
+</blockquote>
+<div style="position:relative;padding:30% 45%"><iframe style="position:absolute;width:100%;height:100%;left:0;top:0" src="//player.bilibili.com/player.html?bvid=BV1J7411G7vh&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>
+<h1>ennnnn</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="建立俩图层">建立俩图层<a href="https://study.sayurinana.ink/blog/2024-04-26-%E5%AD%A6%E4%B9%A0PS%E9%AB%98%E5%8F%8D%E5%B7%AE%E7%A3%A8%E7%9A%AE#%E5%BB%BA%E7%AB%8B%E4%BF%A9%E5%9B%BE%E5%B1%82" class="hash-link" aria-label="建立俩图层的直接链接" title="建立俩图层的直接链接">​</a></h2>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202404261631581.png" alt="image-20240426160343866" class="img_ev3q"></p>
+<p>建立一个复制图层，转换为智能对象，然后再复制一个，</p>
+<p>对其中颜色图层打开CameraRaw滤镜，</p>
+<p>把纹理拉到最低（这个应该就是相当于低频层），</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202404261632178.png" alt="image-20240426160905304" class="img_ev3q"></p>
+<p>然后对质感图层应用滤镜高反差保留，</p>
+<p>拉数值得到合适的纹理的程度即可，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202404261632027.png" alt="image-20240426161054239" class="img_ev3q"></p>
+<p>然后对质感层设置混合模式为线性光，</p>
+<img src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202404261632658.png" alt="image-20240426161256086" style="zoom:80%">
+<img src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202404261632316.png" alt="image-20240426161306916" style="zoom:80%">
+<p>选中这俩图层，<code>Ctrl + G</code>组合，</p>
+<p>对这个组合，按住<code>Alt</code>应用蒙版，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202404261636327.png" alt="image-20240426162000904" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="画笔刷需要的纹理">画笔刷需要的纹理<a href="https://study.sayurinana.ink/blog/2024-04-26-%E5%AD%A6%E4%B9%A0PS%E9%AB%98%E5%8F%8D%E5%B7%AE%E7%A3%A8%E7%9A%AE#%E7%94%BB%E7%AC%94%E5%88%B7%E9%9C%80%E8%A6%81%E7%9A%84%E7%BA%B9%E7%90%86" class="hash-link" aria-label="画笔刷需要的纹理的直接链接" title="画笔刷需要的纹理的直接链接">​</a></h2>
+<p>按<code>B</code>切换到画笔功能，记得硬度调成0，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202404261636679.png" alt="image-20240426161720676" class="img_ev3q"></p>
+<p>确保前景色是白色，不透明度低一点，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202404261636504.png" alt="image-20240426161829250" class="img_ev3q"><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202404261636104.png" alt="image-20240426161831229" class="img_ev3q"></p>
+<p>然后涂抹皮肤，避开眉毛之类的地方，会锐的不自然，</p>]]></content:encoded>
+            <category>bilibili</category>
+        </item>
+        <item>
+            <title><![CDATA[VMware使用物理硬盘]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-03-02-VMware使用物理硬盘</link>
+            <guid>https://study.sayurinana.ink/blog/2024-03-02-VMware使用物理硬盘</guid>
+            <pubDate>Sat, 02 Mar 2024 21:16:30 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 10</li>
+<li>VMware Workstation 17 Pro</li>
+</ul>
+</blockquote>
+<p>要使用物理硬盘，启动Vmware时记得要<strong>以管理员权限运行</strong>，</p>
+<p>然后在添加硬盘时选择<strong>使用物理磁盘</strong>，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202403022144452.png" alt="image-20240302211822583" class="img_ev3q"></p>
+<p>下面会需要选择一个设备，这里的选项是物理硬盘驱动器的标识，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202403022144601.png" alt="image-20240302211901604" class="img_ev3q"></p>
+<h1>查看硬盘标识</h1>
+<p>要搞清标识对应哪一个硬盘，可以<code>Win + R</code>运行<code>diskmgmt.msc</code>打开磁盘管理器，</p>
+<p>其左下方几个格子，磁盘0、1、2就对应刚刚VMware选择物理磁盘中本地硬盘那几个设备标识末尾的数字，</p>
+<p>例如我这里要用的是磁盘2，我从分区大小和类型能知道那就是我的目标硬盘，所以在VMware中，我要选择的设备标识就是<strong>PhysicalDrive2</strong>，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202403022144500.png" alt="image-20240302212441162" class="img_ev3q"></p>
+<p>只使用一部分分区的话就勾选目标分区就好，记得开机前脱机磁盘，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202403022144031.png" alt="image-20240302212706642" class="img_ev3q"></p>
+<h1>让磁盘脱机</h1>
+<p>要使用物理磁盘，记得开开机前要对磁盘进行脱机，不然Windows对它的占用会和VMware冲突，无法启动，</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="方法一使用命令">方法一：使用命令<a href="https://study.sayurinana.ink/blog/2024-03-02-VMware%E4%BD%BF%E7%94%A8%E7%89%A9%E7%90%86%E7%A1%AC%E7%9B%98#%E6%96%B9%E6%B3%95%E4%B8%80%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4" class="hash-link" aria-label="方法一：使用命令的直接链接" title="方法一：使用命令的直接链接">​</a></h2>
+<p>参考：<a href="https://blog.csdn.net/zengconggen/article/details/6756142" target="_blank" rel="noopener noreferrer">VMware中直接使用物理硬盘（Windows）_虚拟机 新建硬盘 使用物理硬盘-CSDN博客</a></p>
+<p>首先按<code>Win + R</code>打开<strong>运行对话框</strong>，输入<code>cmd</code>，按组合键<code>Ctrl + Shift + Enter</code>以管理员权限执行，打开管理员身份的命令提示符，</p>
+<p>然后执行<code>diskpart</code>，在其交互程序中依次执行下列命令</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain"># 查看目标磁盘的编号</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">list disk</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 选中磁盘</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">select disk 编号</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 让磁盘脱机</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">offline disk</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 设置属性</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">attribute disk clear readonly</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 重新扫描</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">rescan</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 再次列出磁盘，以检查状态</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">list disk</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202403022144751.png" alt="image-20240302213647922" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="方法二图形界面操作容易失败略过">方法二：图形界面操作（容易失败，略过）<a href="https://study.sayurinana.ink/blog/2024-03-02-VMware%E4%BD%BF%E7%94%A8%E7%89%A9%E7%90%86%E7%A1%AC%E7%9B%98#%E6%96%B9%E6%B3%95%E4%BA%8C%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%E6%93%8D%E4%BD%9C%E5%AE%B9%E6%98%93%E5%A4%B1%E8%B4%A5%E7%95%A5%E8%BF%87" class="hash-link" aria-label="方法二：图形界面操作（容易失败，略过）的直接链接" title="方法二：图形界面操作（容易失败，略过）的直接链接">​</a></h2>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202403022144912.png" alt="image-20240302212433213" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202403022144626.png" alt="image-20240302212528358" class="img_ev3q"></p>]]></content:encoded>
+            <category>VMware</category>
+        </item>
+        <item>
+            <title><![CDATA[创建ssh秘钥和设置自动登录]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-03-02-创建ssh秘钥和设置自动登录</link>
+            <guid>https://study.sayurinana.ink/blog/2024-03-02-创建ssh秘钥和设置自动登录</guid>
+            <pubDate>Sat, 02 Mar 2024 18:13:13 GMT</pubDate>
+            <description><![CDATA[如果要ssh自动登录linux, 把客户端上的.ssh/idrsa.pub的内容复制或者把文件上传到服务器端, 文件命名为authorizedkeys]]></description>
+            <content:encoded><![CDATA[<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">ssh-keygen -t rsa -C ""你的邮箱用户名@邮箱地址""</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>如果要ssh自动登录linux, 把客户端上的.ssh/id_rsa.pub的内容复制或者把文件上传到服务器端, 文件命名为<code>authorized_keys</code></p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">vim ~/.ssh/authorized_keys</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">chmod 600 ~/.ssh/authorized_keys</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content:encoded>
+            <category>ssh</category>
+        </item>
+        <item>
+            <title><![CDATA[docker镜像的备份恢复]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-03-02-docker镜像的备份恢复</link>
+            <guid>https://study.sayurinana.ink/blog/2024-03-02-docker镜像的备份恢复</guid>
+            <pubDate>Sat, 02 Mar 2024 18:10:39 GMT</pubDate>
+            <description><![CDATA[docker部分常用命令]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>docker部分常用命令</p>
+</blockquote>
+<ul>
+<li>列出镜像</li>
+</ul>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">docker images</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<ul>
+<li>导出镜像</li>
+</ul>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">docker save -o img.tar id</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">或者</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">docker save -o img.tar 镜像名:版本号</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<ul>
+<li>导入镜像</li>
+</ul>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">docker load -i img.tar</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content:encoded>
+            <category>docker</category>
+        </item>
+        <item>
+            <title><![CDATA[Windows安装MySQL5.7]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-02-29-Windows安装MySQL5-7</link>
+            <guid>https://study.sayurinana.ink/blog/2024-02-29-Windows安装MySQL5-7</guid>
+            <pubDate>Thu, 29 Feb 2024 19:59:59 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows10</li>
+<li>mysql-5.7.40-winx64</li>
+</ul>
+</blockquote>
+<p>参考：<a href="https://blog.csdn.net/m0_51510236/article/details/129190003" target="_blank" rel="noopener noreferrer">Windows安装 MySQL5.7（超详细）_windows安装mysql5.7-CSDN博客</a></p>
+<blockquote>
+<p>官网链接：<a href="https://dev.mysql.com/downloads/mysql/" target="_blank" rel="noopener noreferrer">MySQL :: Download MySQL Community Server</a></p>
+<p>或见<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>中的<strong>指定资源名</strong>，若使用分享的安装包则可以直接跳转至<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E4%BD%BF%E7%94%A8%E5%8E%8B%E7%BC%A9%E5%8C%85%E5%AE%89%E8%A3%85MySQL-5.7">安装部分</a></p>
+</blockquote>
+<p>访问官网，选择点击<strong>Archives</strong>，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292245954.png" alt="image-20240229201603882" class="img_ev3q"></p>
+<p>分别指定<strong>Product Version</strong>为<code>5.7.40</code>，<strong>Operating System</strong>为<code>Microsoft Windows</code>，<strong>OS Version</strong>为<code>Windows (x86, 64-bit)</code>，然后单击<strong>ZIP Archive</strong>项右侧的<a href="https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.40-winx64.zip" target="_blank" rel="noopener noreferrer">Download</a>开始下载，</p>
+<p>目前主流的 Intel 和 AMD 芯片都是 (X86, 64-bit) 的架构（可以直接下载安装包安装），</p>
+<p>此处直接贴出官网该资源的链接：<a href="https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.40-winx64.zip" target="_blank" rel="noopener noreferrer">https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.40-winx64.zip</a></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292245881.png" alt="image-20240229201904804" class="img_ev3q"></p>
+<h1>使用压缩包安装MySQL-5.7</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="把压缩包解压">把压缩包解压<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E6%8A%8A%E5%8E%8B%E7%BC%A9%E5%8C%85%E8%A7%A3%E5%8E%8B" class="hash-link" aria-label="把压缩包解压的直接链接" title="把压缩包解压的直接链接">​</a></h2>
+<p>注意解压路径不要有汉字或其他非英文字符和空格，可以有下划线短横线，</p>
+<p>我把它解压到<code>C:\application\command_tool\mysql\mysql-5.7.40-winx64</code>，</p>
+<blockquote>
+<p>以下部分直到配置环境变量可以略过，创建一个到指定版本的软链接仅为个人习惯，可以不进行此操作</p>
+</blockquote>
+<p>然后建立了一个<code>C:\application\command_tool\mysql\default</code>到<code>C:\application\command_tool\mysql\mysql-5.7.40-winx64</code>的软链接，</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">mklink /J C:\application\command_tool\mysql\default C:\application\command_tool\mysql\mysql-5.7.40-winx64</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292245972.png" alt="image-20240229204311125" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="配置环境变量">配置环境变量<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F" class="hash-link" aria-label="配置环境变量的直接链接" title="配置环境变量的直接链接">​</a></h2>
+<p>Windows添加环境变量方法详见 <a href="https://unreplaced.todo/2024-02-19-Windows%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.md" target="_blank" rel="noopener noreferrer">2024-02-19-Windows配置环境变量</a>，</p>
+<p>添加一个变量名为<code>MYSQL_PATH</code>，值为mysql压缩包解压路径的环境变量，</p>
+<p>例如此处我使用软链接，然后配置了如下环境变量，如果不用软链接，就把值替换为直接使用<code>C:\application\command_tool\mysql\mysql-5.7.40-winx64</code></p>
+<table><thead><tr><th>变量名</th><th>值</th></tr></thead><tbody><tr><td>MYSQL_HOME</td><td>C:\application\command_tool\mysql\default</td></tr></tbody></table>
+<blockquote>
+<p>这个变量MYSQL_HOME好像不会像JAVA_HOME，ANDROID_HOME之类的变量被其他软件读取，</p>
+<p>主要是把这个路径独立出来放进一个变量便于修改，和供PATH变量引用</p>
+</blockquote>
+<p>然后在<code>PATH</code>变量中添加一条<code>%MYSQL_HOME%\bin</code>，用于搜索mysql可执行程序，</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="检查">检查<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E6%A3%80%E6%9F%A5" class="hash-link" aria-label="检查的直接链接" title="检查的直接链接">​</a></h2>
+<p>如果以上配置完成，可以新建打开一个命令提示符窗口，运行<code>mysqld --version</code>，应该会输出版本信息，若没有则说明配置有无，回头去再查查哪里漏了，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292245251.png" alt="image-20240229221337676" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="初始化mysql">初始化MySQL<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E5%88%9D%E5%A7%8B%E5%8C%96mysql" class="hash-link" aria-label="初始化MySQL的直接链接" title="初始化MySQL的直接链接">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="编辑配置文件">编辑配置文件<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E7%BC%96%E8%BE%91%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6" class="hash-link" aria-label="编辑配置文件的直接链接" title="编辑配置文件的直接链接">​</a></h3>
+<p>在MySQL根目录下（即MYSQL_HOME变量路径）新建一个<code>my.ini</code>文件，然后编辑写入如下内容（根据自己主机情况自行修改），</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">[mysqld]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 设置3306端口</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">port=3306</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 设置mysql的安装目录</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">basedir=C:\\application\\command_tool\\mysql\\default   # 切记此处一定要用双斜杠\\，单斜杠我这里会出错，不过看别人的教程，有的是单斜杠。自己尝试吧</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 设置mysql数据库的数据的存放目录</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">datadir=C:\\application\\command_tool\\mysql\\default\\Data   # 此处同上</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 允许最大连接数</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">max_connections=200</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 允许连接失败的次数。这是为了防止有人从该主机试图攻击数据库系统</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">max_connect_errors=10</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 服务端使用的字符集默认为UTF8</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">character-set-server=utf8mb4</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 创建新表时将使用的默认存储引擎</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">default-storage-engine=INNODB</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 默认使用“mysql_native_password”插件认证</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">default_authentication_plugin=mysql_native_password</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">[mysql]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 设置mysql客户端默认字符集</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">default-character-set=utf8mb4</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">[client]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 设置mysql客户端连接服务端时默认使用的端口</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">port=3306</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">default-character-set=utf8mb4</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="初始化数据库">初始化数据库<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E5%88%9D%E5%A7%8B%E5%8C%96%E6%95%B0%E6%8D%AE%E5%BA%93" class="hash-link" aria-label="初始化数据库的直接链接" title="初始化数据库的直接链接">​</a></h3>
+<p>按<code>Win + R</code>打开<strong>运行对话框</strong>，输入<code>cmd</code>，按组合键<code>Ctrl + Shift + Enter</code>以管理员权限执行，打开管理员身份的命令提示符，</p>
+<p>运行<code>mysqld --initialize --console</code>初始化MySQL数据库，</p>
+<blockquote>
+<p>ennnnn，虽然可以在配置文件里面设置skip-grant-tables来第一次登录跳过密码验证，但是这个东东好像不大好使，干脆不设置这个了，</p>
+<p>要记得在运行这个初始化后，在输出信息里面找到<strong>root@localhost:</strong> ，后面紧跟着的就是初始化的root密码（不包括冒号后的第一个空格），</p>
+<p>记得先把这个密码暂时记下来，如果不小心关掉了这个窗口就没了，忘记了的话就得要重新进行一次数据库初始化，弄一个新的数据库了，</p>
+</blockquote>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292246547.png" alt="image-20240229222446155" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="安装并启动mysql服务">安装并启动MySQL服务<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E5%AE%89%E8%A3%85%E5%B9%B6%E5%90%AF%E5%8A%A8mysql%E6%9C%8D%E5%8A%A1" class="hash-link" aria-label="安装并启动MySQL服务的直接链接" title="安装并启动MySQL服务的直接链接">​</a></h3>
+<p>在<strong>管理员身份的命令提示符</strong>中运行下面的命令，</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain"># 注意修改后面的 my.ini 配置文件的地址</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">mysqld install MySQL --defaults-file="C:\application\command_tool\mysql\default\my.ini"</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>安装成功：</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292246814.png" alt="image-20240229222739287" class="img_ev3q"></p>
+<p>成功后可以按<code>Win + R</code>运行<code>services.msc</code>打开<strong>服务</strong>窗口，并在服务列表中找到MySQL，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292246087.png" alt="image-20240229223033224" class="img_ev3q"></p>
+<p>在<strong>管理员身份的命令提示符</strong>中运行<code>net start mysql</code>启动MySQL服务，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292246414.png" alt="image-20240229223200115" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="修改root密码">修改root密码<a href="https://study.sayurinana.ink/blog/2024-02-29-Windows%E5%AE%89%E8%A3%85MySQL5-7#%E4%BF%AE%E6%94%B9root%E5%AF%86%E7%A0%81" class="hash-link" aria-label="修改root密码的直接链接" title="修改root密码的直接链接">​</a></h3>
+<p>在命令提示符中输入<code>mysql -uroot -p</code>登录MySQL服务器，然后输入前面初始化数据库时记下来的初始root密码然后按下回车确认输入，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292246103.png" alt="image-20240229223837528" class="img_ev3q"></p>
+<p>然后在mysql交互界面输入如下命令以修改root密码：</p>
+<div class="language-mysql codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-mysql codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">USE `mysql`;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 注意修改自己的密码</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">UPDATE `user` SET `authentication_string` = password("您的密码") WHERE `user` = 'root';</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>然后输入<code>quit</code>或者<code>exit</code>退出，可以再次运行<code>mysql -uroot -p</code>然后使用新设置的密码进行登录，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402292246145.png" alt="image-20240229224135512" class="img_ev3q"></p>
+<h1>重启MySQL服务</h1>
+<p>可以使用net命令快速启动或停止MySQL服务，重启就把两个命令组合用一次就好：</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain"># 停止</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">net stop mysql</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 启动</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">net start mysql</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 重启</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">net stop mysql</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">net start mysql</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<p>暂未上传</p>]]></content:encoded>
+            <category>MySQL</category>
+            <category>MySQL5.7</category>
+        </item>
+        <item>
+            <title><![CDATA[记录npm信息：XXX packages are looking for funding]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-02-29-记录npm信息：XXX-packages-are-looking-for-funding</link>
+            <guid>https://study.sayurinana.ink/blog/2024-02-29-记录npm信息：XXX-packages-are-looking-for-funding</guid>
+            <pubDate>Thu, 29 Feb 2024 17:44:39 GMT</pubDate>
+            <description><![CDATA[npm install 提示信息：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>npm install 提示信息：</p>
+<p>XXX packages are looking for funding</p>
+<p>run <code>npm fund</code> for details</p>
+<p>本文环境：</p>
+<ul>
+<li>Node.js 16.14.2</li>
+</ul>
+</blockquote>
+<p>这个提示信息不是报错信息，是开发者捐赠支持的提示，</p>
+<p>可以运行提示中的命令<code>npm fund</code>，查看具体内容，</p>
+<p>会看到模块对应的打赏链接，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202403022043143.png" alt="image-20240302204230105" class="img_ev3q"></p>]]></content:encoded>
+            <category>DeBug</category>
+            <category>Node.js</category>
+        </item>
+        <item>
+            <title><![CDATA[解决npm错误：found XXX vulnerabilities]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-02-29-解决npm错误：found-XXX-vulnerabilities</link>
+            <guid>https://study.sayurinana.ink/blog/2024-02-29-解决npm错误：found-XXX-vulnerabilities</guid>
+            <pubDate>Thu, 29 Feb 2024 17:42:36 GMT</pubDate>
+            <description><![CDATA[解决npm报错信息：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>解决npm报错信息：</p>
+<p>found XXX vulnerabilities (XXX high, XXX low, XXX moderate)
+run <code>npm audit fix</code> to fix them, or <code>npm audit</code> for details</p>
+<p>本文环境：</p>
+<ul>
+<li>Node.js 16.14.2</li>
+</ul>
+</blockquote>
+<p>尝试执行<code>npm audit fix</code>进行修复，</p>
+<p>没用的话就全清了重新装吧，</p>
+<ol>
+<li>清除缓存<code>npm cache clean --force</code></li>
+<li>删掉文件夹<code>node_modules</code></li>
+<li>如果没有<code>package.json</code>文件就执行<code>npm init -y</code></li>
+</ol>
+<p>然后重新安装，<code>npm install</code>，</p>]]></content:encoded>
+            <category>DeBug</category>
+            <category>Node.js</category>
+        </item>
+        <item>
+            <title><![CDATA[Windows删除服务]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-02-29-Windows删除服务</link>
+            <guid>https://study.sayurinana.ink/blog/2024-02-29-Windows删除服务</guid>
+            <pubDate>Thu, 29 Feb 2024 17:40:28 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 10</li>
+</ul>
+</blockquote>
+<p>参考：<a href="https://www.sysgeek.cn/windows-delete-service/" target="_blank" rel="noopener noreferrer">在 Windows 系统中删除「服务」的 4 种方法 - 系统极客 (sysgeek.cn)</a></p>
+<p>现代应用程序是复杂且多方面的，从交互用户界面到处理程序内部工作的后台<a href="https://en.wikipedia.org/wiki/Thread_(computing)" target="_blank" rel="noopener noreferrer">线程</a>，需要各种<a href="https://en.wikipedia.org/wiki/Process_(computing)" target="_blank" rel="noopener noreferrer">进程</a>来保持应用程序的运行。</p>
+<p>「服务」从内存中读取文件并显示您看到的窗口，是执行繁重工作的隐藏进程。</p>
+<p>Windows 操作系统拥有一系列「服务」，可以处理保持计算机运行的细枝末节。这些「服务」中的大多数对保持 Windows PC 的运行是必不可少的，并且无法在不影响性能的情况下安全删除。</p>
+<h1>方法1：通过注册表删除Windows服务</h1>
+<ol>
+<li>按<code>Win + R</code>打开<strong>运行对话框</strong>，执行<code>regedit</code>以打开<strong>注册表编辑器</strong></li>
+</ol>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402291809791.png" alt="image-20240229175353727" class="img_ev3q"></p>
+<ol start="2">
+<li>地址栏输入并进入到<code>\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services</code></li>
+</ol>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402291809274.png" alt="image-20240229175559501" class="img_ev3q"></p>
+<ol start="3">
+<li>Windows的所有服务都在此<code>Services</code>目录中以<strong>键</strong>表示，找到要删除的服务的<strong>键</strong>，右击选择删除，然后<strong>在下次重新启动后，该服务将会被删除</strong></li>
+</ol>
+<blockquote>
+<p>下图是我已自己手动安装的第三方服务<code>MySQL</code>为例，右击选择删除的截图</p>
+</blockquote>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402291809411.png" alt="image-20240229175936987" class="img_ev3q"></p>
+<h1>方法2：使用命令删除Windows服务</h1>
+<ol>
+<li>按<code>Win + R</code>打开<strong>运行对话框</strong>，输入<code>cmd</code>，按组合键<code>Ctrl + Shift + Enter</code>以管理员权限执行，打开管理员身份的命令提示符</li>
+</ol>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402291809720.png" alt="image-20240229180659538" class="img_ev3q"></p>
+<ol start="2">
+<li>运行<code>sc queryex type=service state=all</code>列出系统中的所有服务名，可以配合<code>findstr</code>确认目标服务是否存在，此处以我已自己手动安装的第三方服务<code>MySQL</code>为例，命令如下</li>
+</ol>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">sc queryex type=service state=all | findstr "MySQL"</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402291959952.png" alt="image-20240229194828666" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402291959105.png" alt="image-20240229194930721" class="img_ev3q"></p>
+<ol start="3">
+<li>运行<code>sc delete 服务名</code>以删除<code>服务名</code>对应的服务，成功删除会输出<code>[SC] DeleteService SUCCESS</code>，命令执行成功后服务会被立即删除，不用重启</li>
+</ol>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">sc delete 服务名</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/202402291959174.png" alt="image-20240229195116076" class="img_ev3q"></p>]]></content:encoded>
+            <category>Windows</category>
+        </item>
+        <item>
+            <title><![CDATA[安装Node.js]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-02-23-安装Node-js</link>
+            <guid>https://study.sayurinana.ink/blog/2024-02-23-安装Node-js</guid>
+            <pubDate>Fri, 23 Feb 2024 15:16:03 GMT</pubDate>
+            <description><![CDATA[本文环境：]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>本文环境：</p>
+<ul>
+<li>OS：Windows 10</li>
+<li>Node.js 20.11.1 LTS</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>官网链接：<a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">Node.js (nodejs.org)</a></p>
+<p>或见<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%AE%89%E8%A3%85Node-js#%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8">资源列表</a>中的<strong>Node.js 20.11.1 LTS 安装程序</strong>，若使用分享的安装包则可以直接跳转至<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%AE%89%E8%A3%85Node-js#%E4%BD%BF%E7%94%A8%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E5%AE%89%E8%A3%85">安装部分</a></p>
+</blockquote>
+<p>访问官网，可以直接点那个绿色按钮下载安装程序，或者在下面的**<a href="https://nodejs.org/en/download/" target="_blank" rel="noopener noreferrer">Other Downloads</a>**里面选，建议选那个LTS长期支持版，</p>
+<p>20.11.1 LTS Windows x64 MSI安装程序官网链接：<a href="https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi" target="_blank" rel="noopener noreferrer">https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi</a></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223152615667.png" alt="image-20240223152615667" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223152603208.png" alt="image-20240223152603208" class="img_ev3q"></p>
+<h1>使用安装程序进行安装</h1>
+<p>//TODO!!! ennnnn，过几天吧，到时候用虚拟机跑win10搞点图</p>
+<h1>资源列表</h1>
+<blockquote>
+<p>以下所列是<strong>相对于我的博客分享资源中的资源位置</strong>，</p>
+<p>具体使用方法详见 <a href="https://unreplaced.todo/2024-02-17-%E5%8D%9A%E5%AE%A2%E5%88%86%E4%BA%AB%E8%B5%84%E6%BA%90.md" target="_blank" rel="noopener noreferrer">博客分享资源</a></p>
+</blockquote>
+<ul>
+<li>Node.js 20.11.1 LTS 安装程序<!-- -->
+<ul>
+<li>可执行文件/node-v20.11.1-x64.msi</li>
+</ul>
+</li>
+</ul>]]></content:encoded>
+            <category>Node.js</category>
+            <category>安装</category>
+        </item>
+        <item>
+            <title><![CDATA[开始学习vue]]></title>
+            <link>https://study.sayurinana.ink/blog/2024-02-23-开始学习vue</link>
+            <guid>https://study.sayurinana.ink/blog/2024-02-23-开始学习vue</guid>
+            <pubDate>Fri, 23 Feb 2024 14:57:21 GMT</pubDate>
+            <description><![CDATA[昨天开始学习vue咯]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>昨天开始学习vue咯</p>
+</blockquote>
+<p>官网地址：<a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noopener noreferrer">Introduction | Vue.js (vuejs.org)</a></p>
+<p>ennnnn，需要更高版本的node.js，要18.0或更高，我之前用来构建这个网站的node版本只有16，装个新版的，顺便编辑一篇，</p>
+<p>详见 <a href="https://unreplaced.todo/2024-02-23-%E5%AE%89%E8%A3%85Node-js.md" target="_blank" rel="noopener noreferrer">2024-02-23-安装Node-js</a>，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223151136843.png" alt="image-20240223151136843" class="img_ev3q"></p>
+<h1>尝试使用构建步骤的</h1>
+<p>这个简单，按官网步骤来就行，</p>
+<p>第一步搭脚手架，执行</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">npm create vue@latest</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223160321974.png" alt="image-20240223160321974" class="img_ev3q"></p>
+<p>按照提示输入信息就好，等创建完成后，进入到项目目录，然后执行</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">npm install</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">npm run dev</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>安装依赖并运行开发服务器，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223161827216.png" alt="image-20240223161827216" class="img_ev3q"></p>
+<p>按照输出信息，浏览器打开<code>http://localhost:5173/</code>就能看到页面了，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223162039130.png" alt="image-20240223162039130" class="img_ev3q"></p>
+<p>可以在目录里找到项目的源文件，感觉还是挺易懂的，这个页面也好有感觉，好厉害୧(๑•̀◡•́๑)૭，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223170353096.png" alt="image-20240223170353096" class="img_ev3q"></p>
+<h1>尝试无构建步骤的</h1>
+<p>ennnn，官网没有目录文件结构示意，就是前两三篇里提到了可以无构建步骤的运行vue，</p>
+<p>琢磨了一下，嘿，还真能成，</p>
+<p>在前几篇里就找到这里一个例子，是按文件形式贴出代码的，就直接按这俩文件来建，新建一个目录，</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="建立文件">建立文件<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0vue#%E5%BB%BA%E7%AB%8B%E6%96%87%E4%BB%B6" class="hash-link" aria-label="建立文件的直接链接" title="建立文件的直接链接">​</a></h2>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223195118260.png" alt="image-20240223195118260" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223195244315.png" alt="image-20240223195244315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="略微自行修改">略微自行修改<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0vue#%E7%95%A5%E5%BE%AE%E8%87%AA%E8%A1%8C%E4%BF%AE%E6%94%B9" class="hash-link" aria-label="略微自行修改的直接链接" title="略微自行修改的直接链接">​</a></h2>
+<p>最主要的是把原本使用本地依赖的<code>'vue'</code>修改为使用<strong>ES模块构建版本</strong>的<code>'https://unpkg.com/vue@3/dist/vue.esm-browser.js'</code>，</p>
+<div class="language-vue codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-vue codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">&lt;!-- index.html --&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">&lt;div id="app"&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">&lt;/div&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">&lt;script type="module"&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  import { createApp } from 'https://unpkg.com/vue@3/dist/vue.esm-browser.js'</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  import MyComponent from './my-component.js'</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  createApp(MyComponent).mount('#app')</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">&lt;/script&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">// my-component.js</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword module" style="color:#00009f">import</span><span class="token plain"> </span><span class="token imports punctuation" style="color:#393A34">{</span><span class="token imports"> ref </span><span class="token imports punctuation" style="color:#393A34">}</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">from</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'https://unpkg.com/vue@3/dist/vue.esm-browser.js'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword module" style="color:#00009f">export</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">default</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token function" style="color:#d73a49">setup</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> count </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">ref</span><span class="token punctuation" style="color:#393A34">(</span><span class="token number" style="color:#36acaa">0</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token keyword control-flow" style="color:#00009f">return</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"> count </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">template</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token comment" style="color:#999988;font-style:italic">/*html*/</span><span class="token template-string template-punctuation string" style="color:#e3116c">`</span><span class="token template-string string" style="color:#e3116c"></span><br></span><span class="token-line" style="color:#393A34"><span class="token template-string string" style="color:#e3116c">    &lt;button v-on:click="count++"&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token template-string string" style="color:#e3116c">      Count is: {{ count }}</span><br></span><span class="token-line" style="color:#393A34"><span class="token template-string string" style="color:#e3116c">    &lt;/button&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token template-string string" style="color:#e3116c">  </span><span class="token template-string template-punctuation string" style="color:#e3116c">`</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="部署">部署<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0vue#%E9%83%A8%E7%BD%B2" class="hash-link" aria-label="部署的直接链接" title="部署的直接链接">​</a></h2>
+<p>官网有提到ES模块不能直接通过<code>file://</code>协议工作（我会一点点JS，不过也就会一点点，没有深入地透彻理解，所以关于ES模块也不太懂），</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223195740243.png" alt="image-20240223195740243" class="img_ev3q"></p>
+<p>于是我在本机的nginx配置里新加了一个虚拟主机配置（我的机器原本就配置的有nginx，并且作为服务是自启动运行的，这个方便一些），</p>
+<p>不过我也试了官网说的<code>npx serve</code>。。。等下，出意外了，<strong>焯！！！</strong></p>
+<p>我昨天试了好多次，因为这个方便嘛，打个命令的事，但是我一直没有部署起来，然后才转而使用nginx提供web服务，</p>
+<p>我刚刚写到这里，细看，才发现，昨天我想当然了，没看认真，下意识以为是<code>npx server</code>，寄。。。跑的起来才有鬼了。。。</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223200402088.png" alt="image-20240223200402088" class="img_ev3q"></p>
+<p>昨天我看到的一直是下图这个报错，说找不到可执行的东西来运行，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223200641252.png" alt="image-20240223200641252" class="img_ev3q"></p>
+<p>是我太想当然了，不仔细啊，焯！</p>
+<p>蒜了，过去了过去了，下次注意。。。</p>
+<p>下面贴一下nginx的配置：</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223200912175.png" alt="image-20240223200912175" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="网页效果">网页效果<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0vue#%E7%BD%91%E9%A1%B5%E6%95%88%E6%9E%9C" class="hash-link" aria-label="网页效果的直接链接" title="网页效果的直接链接">​</a></h2>
+<p>响应式的东西渲染出来了，也可以点击，嘿嘿，成了，</p>
+<p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223201114115.png" alt="image-20240223201114115" class="img_ev3q"><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img/image-20240223201128782.png" alt="image-20240223201128782" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="再贴一点尝试的其他代码修改">再贴一点尝试的其他代码修改<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0vue#%E5%86%8D%E8%B4%B4%E4%B8%80%E7%82%B9%E5%B0%9D%E8%AF%95%E7%9A%84%E5%85%B6%E4%BB%96%E4%BB%A3%E7%A0%81%E4%BF%AE%E6%94%B9" class="hash-link" aria-label="再贴一点尝试的其他代码修改的直接链接" title="再贴一点尝试的其他代码修改的直接链接">​</a></h2>
+<p>都达到了我的预期效果</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1">1<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0vue#1" class="hash-link" aria-label="1的直接链接" title="1的直接链接">​</a></h3>
+<div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">&lt;!-- index.html --&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">id</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">app</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">script</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">type</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">module</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript keyword module" style="color:#00009f">import</span><span class="token script language-javascript"> </span><span class="token script language-javascript imports punctuation" style="color:#393A34">{</span><span class="token script language-javascript imports"> createApp </span><span class="token script language-javascript imports punctuation" style="color:#393A34">}</span><span class="token script language-javascript"> </span><span class="token script language-javascript keyword module" style="color:#00009f">from</span><span class="token script language-javascript"> </span><span class="token script language-javascript string" style="color:#e3116c">'https://unpkg.com/vue@3/dist/vue.esm-browser.js'</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript keyword module" style="color:#00009f">import</span><span class="token script language-javascript"> </span><span class="token script language-javascript imports maybe-class-name">MyComponent</span><span class="token script language-javascript"> </span><span class="token script language-javascript keyword module" style="color:#00009f">from</span><span class="token script language-javascript"> </span><span class="token script language-javascript string" style="color:#e3116c">'./my-component.js'</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript function" style="color:#d73a49">createApp</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript maybe-class-name">MyComponent</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript punctuation" style="color:#393A34">.</span><span class="token script language-javascript method function property-access" style="color:#d73a49">mount</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript string" style="color:#e3116c">'#app'</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">script</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">// my-component.js</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword module" style="color:#00009f">import</span><span class="token plain"> </span><span class="token imports punctuation" style="color:#393A34">{</span><span class="token imports"> ref </span><span class="token imports punctuation" style="color:#393A34">}</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">from</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'https://unpkg.com/vue@3/dist/vue.esm-browser.js'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword module" style="color:#00009f">export</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">default</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token function" style="color:#d73a49">setup</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> count </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">ref</span><span class="token punctuation" style="color:#393A34">(</span><span class="token number" style="color:#36acaa">0</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token keyword control-flow" style="color:#00009f">return</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"> count </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">template</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token comment" style="color:#999988;font-style:italic">/*html*/</span><span class="token template-string template-punctuation string" style="color:#e3116c">`</span><span class="token template-string string" style="color:#e3116c">&lt;button v-on:click="count++"&gt;Count is: {{ count }}&lt;/button&gt;</span><span class="token template-string template-punctuation string" style="color:#e3116c">`</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2">2<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0vue#2" class="hash-link" aria-label="2的直接链接" title="2的直接链接">​</a></h3>
+<p>这个是只有一个html文件的</p>
+<div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">&lt;!-- index.html --&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">id</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">app</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">button</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name namespace" style="color:#00a4db;opacity:0.7">v-on:</span><span class="token tag attr-name" style="color:#00a4db">click</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">count++</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain">Count is: {{ count }}</span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">button</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">script</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">type</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">module</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript keyword module" style="color:#00009f">import</span><span class="token script language-javascript"> </span><span class="token script language-javascript imports punctuation" style="color:#393A34">{</span><span class="token script language-javascript imports"> createApp</span><span class="token script language-javascript imports punctuation" style="color:#393A34">,</span><span class="token script language-javascript imports"> ref </span><span class="token script language-javascript imports punctuation" style="color:#393A34">}</span><span class="token script language-javascript"> </span><span class="token script language-javascript keyword module" style="color:#00009f">from</span><span class="token script language-javascript"> </span><span class="token script language-javascript string" style="color:#e3116c">'https://unpkg.com/vue@3/dist/vue.esm-browser.js'</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript keyword" style="color:#00009f">const</span><span class="token script language-javascript"> app </span><span class="token script language-javascript operator" style="color:#393A34">=</span><span class="token script language-javascript"> </span><span class="token script language-javascript function" style="color:#d73a49">createApp</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript punctuation" style="color:#393A34">{</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">    </span><span class="token script language-javascript function" style="color:#d73a49">setup</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript"> </span><span class="token script language-javascript punctuation" style="color:#393A34">{</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">      </span><span class="token script language-javascript keyword" style="color:#00009f">const</span><span class="token script language-javascript"> count </span><span class="token script language-javascript operator" style="color:#393A34">=</span><span class="token script language-javascript"> </span><span class="token script language-javascript function" style="color:#d73a49">ref</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript number" style="color:#36acaa">0</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">      </span><span class="token script language-javascript keyword control-flow" style="color:#00009f">return</span><span class="token script language-javascript"> </span><span class="token script language-javascript punctuation" style="color:#393A34">{</span><span class="token script language-javascript"> count </span><span class="token script language-javascript punctuation" style="color:#393A34">}</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">    </span><span class="token script language-javascript punctuation" style="color:#393A34">}</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript punctuation" style="color:#393A34">}</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  app</span><span class="token script language-javascript punctuation" style="color:#393A34">.</span><span class="token script language-javascript method function property-access" style="color:#d73a49">mount</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript string" style="color:#e3116c">'#app'</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">script</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3">3<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0vue#3" class="hash-link" aria-label="3的直接链接" title="3的直接链接">​</a></h3>
+<div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">&lt;!-- index.html --&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">id</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">app</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">button</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name namespace" style="color:#00a4db;opacity:0.7">v-on:</span><span class="token tag attr-name" style="color:#00a4db">click</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">count++</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain">Count is: {{ count }}</span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">button</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">script</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">type</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">module</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript keyword module" style="color:#00009f">import</span><span class="token script language-javascript"> </span><span class="token script language-javascript imports punctuation" style="color:#393A34">{</span><span class="token script language-javascript imports"> createApp</span><span class="token script language-javascript imports punctuation" style="color:#393A34">,</span><span class="token script language-javascript imports"> ref </span><span class="token script language-javascript imports punctuation" style="color:#393A34">}</span><span class="token script language-javascript"> </span><span class="token script language-javascript keyword module" style="color:#00009f">from</span><span class="token script language-javascript"> </span><span class="token script language-javascript string" style="color:#e3116c">'https://unpkg.com/vue@3/dist/vue.esm-browser.js'</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript keyword module" style="color:#00009f">import</span><span class="token script language-javascript"> </span><span class="token script language-javascript imports maybe-class-name">MyComponent</span><span class="token script language-javascript"> </span><span class="token script language-javascript keyword module" style="color:#00009f">from</span><span class="token script language-javascript"> </span><span class="token script language-javascript string" style="color:#e3116c">'./my-component.js'</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript keyword" style="color:#00009f">const</span><span class="token script language-javascript"> app </span><span class="token script language-javascript operator" style="color:#393A34">=</span><span class="token script language-javascript"> </span><span class="token script language-javascript function" style="color:#d73a49">createApp</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript maybe-class-name">MyComponent</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript">  app</span><span class="token script language-javascript punctuation" style="color:#393A34">.</span><span class="token script language-javascript method function property-access" style="color:#d73a49">mount</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript string" style="color:#e3116c">'#app'</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript"></span><br></span><span class="token-line" style="color:#393A34"><span class="token script language-javascript"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">script</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">// my-component.js</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword module" style="color:#00009f">import</span><span class="token plain"> </span><span class="token imports punctuation" style="color:#393A34">{</span><span class="token imports"> ref </span><span class="token imports punctuation" style="color:#393A34">}</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">from</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'https://unpkg.com/vue@3/dist/vue.esm-browser.js'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword module" style="color:#00009f">export</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">default</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token function" style="color:#d73a49">setup</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> count </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">ref</span><span class="token punctuation" style="color:#393A34">(</span><span class="token number" style="color:#36acaa">0</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token keyword control-flow" style="color:#00009f">return</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"> count </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4">4<a href="https://study.sayurinana.ink/blog/2024-02-23-%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0vue#4" class="hash-link" aria-label="4的直接链接" title="4的直接链接">​</a></h3>
+<div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">&lt;!-- index.html --&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">id</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">app</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">button</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name namespace" style="color:#00a4db;opacity:0.7">v-on:</span><span class="token tag attr-name" style="color:#00a4db">click</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">count++</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain">Count is: {{ count }}</span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">button</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">script</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">type</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">module</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">src</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">./my-component.js</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token script"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">script</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">// my-component.js</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword module" style="color:#00009f">import</span><span class="token plain"> </span><span class="token imports punctuation" style="color:#393A34">{</span><span class="token imports"> createApp</span><span class="token imports punctuation" style="color:#393A34">,</span><span class="token imports"> ref </span><span class="token imports punctuation" style="color:#393A34">}</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">from</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'https://unpkg.com/vue@3/dist/vue.esm-browser.js'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> app </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">createApp</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token function" style="color:#d73a49">setup</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> count </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">ref</span><span class="token punctuation" style="color:#393A34">(</span><span class="token number" style="color:#36acaa">0</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token keyword control-flow" style="color:#00009f">return</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">      count</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">app</span><span class="token punctuation" style="color:#393A34">.</span><span class="token method function property-access" style="color:#d73a49">mount</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'#app'</span><span class="token punctuation" style="color:#393A34">)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content:encoded>
+            <category>Vue3</category>
         </item>
     </channel>
 </rss>
