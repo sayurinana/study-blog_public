@@ -78,7 +78,7 @@
 <p>保存后点击编译，</p>
 <p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader-hub/study-blog/auto/image-20250306055514315.png" alt="image-20250306055514315" class="img_ev3q"></p>
 <p>编译的时候，在IDE右下角能看到进度，</p>
-<p><img decoding="async" loading="lazy" alt="image-20250306055505709" src="https://study.sayurinana.ink/assets/images/image-20250306055505709-b08d223ee08e187e756412e0181d7113.png" width="1920" height="1021" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://unreplaced.todo/assets/image-20250306055505709.png" alt="image-20250306055505709" class="img_ev3q"></p>
 <p>编译成功会看到提示 <strong>was successful</strong></p>
 <p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader-hub/study-blog/auto/image-20250306055802526.png" alt="image-20250306055802526" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="运行仿真">运行仿真<a href="https://study.sayurinana.ink/blog/2025-03-06-Quartus-II-13-0-1-%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE%E5%B9%B6%E5%86%99%E4%B8%80%E4%B8%AAVerilog%E7%A8%8B%E5%BA%8F%E6%9D%A5%E4%BB%BF%E7%9C%9F%E6%9F%A5%E7%9C%8B%E8%BE%93%E5%87%BA#%E8%BF%90%E8%A1%8C%E4%BB%BF%E7%9C%9F" class="hash-link" aria-label="运行仿真的直接链接" title="运行仿真的直接链接">​</a></h2>
@@ -101,7 +101,7 @@
 <p>（我这里这个图只是用来表示一个grid有在图里有多长，但是我这个波形图的输入信号D并不是用grid生成的而是half grid）</p>
 <p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader-hub/study-blog/auto/image-20250306070620468.png" alt="image-20250306070620468" class="img_ev3q"></p>
 <p><strong>半个</strong>就是</p>
-<p><img decoding="async" loading="lazy" alt="image-20250306070640343" src="https://study.sayurinana.ink/assets/images/image-20250306070640343-195d1df65033678ddbaae5de90b7fc16.png" width="1104" height="563" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://unreplaced.todo/assets/image-20250306070640343.png" alt="image-20250306070640343" class="img_ev3q"></p>
 <p>第三项和第四项分别是完全随机重复和固定重复</p>
 <p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader-hub/study-blog/auto/image-20250306061823575.png" alt="image-20250306061823575" class="img_ev3q"></p>
 <p>时钟信号和输入信号都有了，点下图中标注的按钮，运行时序仿真，</p>
@@ -255,7 +255,7 @@
 <p>点一下修改日期，</p>
 <p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader-hub/study-blog/auto/image-20250306042248680.png" alt="image-20250306042248680" class="img_ev3q"></p>
 <p>把它变成下面这样，有个向下的小箭头，</p>
-<p><img decoding="async" loading="lazy" alt="image-20250306042332086" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANkAAAA5CAIAAAA0mBmjAAAE3UlEQVR4nO3av2siaRgH8GeP+xdECXoHKRNuihAcwhLQsOkUAoaV2xRqIyhEJbCFGCxCxMBB8AdcwEamyC4eBoRJ55EIISQuYmFYS4vVEwf/iFwxo46u2TXJML4J30+VmfiOr/j1eX/MvLm/vycABvwy7w4AKJBFYAWyCKxAFoEVyCKwAlkEViCLwApkEViBLAIrkEVghcZZ7Ha72l4QXo2fZgN1UWPZbPZR52EIWdQYz/PBYHDiZDAY5Hl+Lv15QZBFjVmtVq/Xq45jMBj0er1Wq3WOvXoRkEXtqeOIIM7u13l34HWSw7exsXF0dIQgzuiNts/SdrvdhYUFDS8Ir8ZPs4ExGliBLAIrkEVghb5rl14lHJU+5N2Drbbmse/f35KhbdNMrau52KeFSNphmPqvw5uHW1o2Tw5sZvnvesFZMiqHw/70KuFouTVqwO2POgk66BfjKV2z2Kk1Wmvvht9xNXd6SUTRmDA4s+iKpB0GmkiGnKRe5dMN9yE/JYhjbb9/0/NM4MssvRvmr3nsu5ulAWjIYjbqmcX+7RfJvmUoxmPfthLvu5nDG1WA6gVnVlpfNRARmWzpvE1pVC84S0Ryjkk69DXGLrm2I/qXZu9B5zwTOJOIKOArD08e+iTPLvecDwbPZuD9IR2zWL8Q2kaPvKivFQId7iS/fBtPOc+MixapRZsnebf5wcbNf87Ik0woo3mvEv6bPg6H3ZmZHSFxYfoYffXETwXPNSwQumWxXyw1iIzK0apb9BMRbW9xQrbRahNR47Zne2jieJs7vSSyd4nkF3Sl1vBST9Auq+risCI2VEWXe/v0q8PjmB0h0UGkWxY7558FM2dvS8pxreDMNoiI1nbEvLvT65vpa1ieOK7tiH469p1eDhtbuG8dzuOShFpzb2WJiKq1xqI1MlEUW2cp59kDb2+ZONxU18XBWcwX50jHtct/XeO+/4/rm8EXv+oW/e5BJ2JC2+hJhkZzRGoSGT3y+rpecJaM7w9s5l7lKnpX9S/x1G936PfVyWXKI9Yu0+sizIe8B2LfTeiURd7vJmpeq08pi2WjJ5kQTdQ5zzi776YsRFbc4goREZmW1y3l67qbpwuhze2vPKM30+sizAfvT8gTtrk9G1Gt0cd8wkwk12eBNk8OfrwiNmxvcc5Sgaix6IpovPnXlVqYL86J/muXSbzDpqSwrZTGsV3okX4xfmE5cPNEtLLhKaUE2jyZNhbPYrglPr6nQx6XpNoPx3xRV3qvXVQM2wcJUn4NpKSwVwn7yi3i9pPL6pcOXhPiiQblk7NTORCn7yI7E3k46Jxn/qI/06tfw9HGejK0beoX46lF6/ITLggamltdlH8N1VzMeUNE3H4+MT7sSkI0duWKiHkDDerZoisiOgxE7re5WMBXtu8m9lSzxtnW0cP5gIHIlk5SOJohl1Foc/sHT6y1oI16YU5ZHNzls+8q89Yx9bvLseVFubW2I+ZHs0nenxD9zWNfzKm67zLLOrqaSwlm1a0aky2dXy7GPyultz7aadrT7rPCjxXjMaFNRByepQWd4FlaeDGQRWAFsgisQBaBFcgisAJZBFYgi8AKZBFYgSwCKzS+7wLwZKiLwApkEViBLAIrkEVgBbIIrEAWgRXIIrACWQRWIIvACmQRWIEsAiuQRWDF//ghBMuMIPezAAAAAElFTkSuQmCC" width="217" height="57" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://unreplaced.todo/assets/image-20250306042332086.png" alt="image-20250306042332086" class="img_ev3q"></p>
 <p>然后就应该能看到第一个文件是 <code>license.dat</code>，这是许可证数据文件，</p>
 <p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader-hub/study-blog/auto/image-20250306042354470.png" alt="image-20250306042354470" class="img_ev3q"></p>
 <p>右击这个文件，如果你的界面也有<strong>在记事本中编辑</strong>，就直接点<strong>在记事本中编辑</strong>，</p>
@@ -274,7 +274,7 @@
 <p>把这两段都用前面复制到的那一段编码替换掉，</p>
 <p>换好了之后点保存，</p>
 <p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader-hub/study-blog/auto/image-20250306043157105.png" alt="image-20250306043157105" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image-20250306041808079" src="https://study.sayurinana.ink/assets/images/image-20250306041808079-82026dfcbd4c7e3c6d5558a896d5f250.png" width="532" height="184" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://unreplaced.todo/assets/image-20250306041808079.png" alt="image-20250306041808079" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader-hub/study-blog/auto/image-20250306043339231.png" alt="image-20250306043339231" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/img-uploader-hub/study-blog/auto/image-20250306043528978.png" alt="image-20250306043528978" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="检查当前许可证">检查当前许可证<a href="https://study.sayurinana.ink/blog/2025-03-06-Windows%E4%B8%8B%E5%AE%89%E8%A3%85%E5%92%8C%E7%A0%B4%E8%A7%A3Quartus-II-3-0#%E6%A3%80%E6%9F%A5%E5%BD%93%E5%89%8D%E8%AE%B8%E5%8F%AF%E8%AF%81" class="hash-link" aria-label="检查当前许可证的直接链接" title="检查当前许可证的直接链接">​</a></h3>
